@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ecological Amnesia | Sauvons Notre Climat</title>
+    <script src="node_modules/papaparse/papaparse.js"></script>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+
+    <div id="en_tete">
+      <a href="../index.html"><img class="logo" src="images/logo.png"></a>
+      <a href="../index.html"><h1>Les preuves du changement climatique</h1></a>
+
+
+      <ul id="menu">
+      <li id="sep_right"><a href="../index.html">Accueil</a></li>
+      <li id="sep_left"><a href="one.html">Voir les données pour une ville</a></li>
+      <li id="sep_left"><a href="compare.html">Comparer deux villes</a></li>
+      <li id="sep_left"><a href="solutions.html">Les solutions</a></li>
+      <li id="sep_left"><a href="contact.html">Contact</a></li>
+      </ul>
+  </div>
+  <br><br>
+
+  <!-- Mise en forme d'un formulaire de contact -->
+
+  <h2>Formulaire de contact</h2>
+
+    <form enctype="text/plain" method="POST"
+        action="mailto:clement.yziquel@isen-ouest.yncrea.fr?subject=Contact">
+    <div>
+        <label>Nom et prénom :<i style="color: red;">*</i></label> <br>
+        <input type="text" name=nom required> <br><br>
+    </div>
+    <div>
+        <label>Adresse e-mail :<i style="color: red;">*</i></label> <br>
+        <input type="email" name=mail_address required> <br><br>
+    </div>
+    <div>
+        <label>Quel est l'objet de votre prise de contact? <i style="color: red;">*</i></label> <br>
+        <select name="Quel est l'objet de votre prise de contact?" required>
+          <option value="">--Sélectionner un objet--</option>
+          <option value="propo_improve">Proposition d'amélioration</option>
+          <option value="demande_info">Demande d'information</option>
+          <option value="demande_add">Demande d'ajout d'une fonctionnalité</option>
+          <option value="other">Autre</option>
+        </select> <br><br>
+    </div>
+    <div>
+        <label>Message :<i style="color: red;">*</i></label> <br>
+        <textarea rows="5" cols="50" name=msg required></textarea> <br><br>
+    </div>
+    <div>
+        <label>Ajouter une pièce jointe (.pdf .png .bmp)</label> <br>
+        <input type="file" name=piece_jointe accept=".pdf,.png,.bmp"> <br> <br>
+    </div>
+    <div>
+        <button type="submit">Envoyer le formulaire</button><br>
+        <label id="champs">Les champs contenant <i style="color: red;">*</i> sont obligatoires</label>
+
+  </body>
+</html>

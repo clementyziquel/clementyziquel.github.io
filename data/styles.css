@@ -1,0 +1,223 @@
+@font-face {
+  font-family: 'homeworkregular';
+  src: url('police/MVBoli.woff') format('woff2'),
+       url('police/MVBoli.woff') format('woff');
+}
+
+.logo{
+  width: 200px;
+  height: 180px;
+  float: left;
+  margin-bottom:0;
+}
+
+#en_tete{
+  margin-top: 20px;
+  margin-bottom:0;
+}
+
+h1{
+  margin: 0 0 0 300px;
+  color: blue;
+  font-size: 50px;
+  font-family:'homeworkregular';
+}
+
+h2{
+  margin: 0;
+  color: blue;
+  font-family:'homeworkregular';
+  font-size:45px;
+  text-align: center;
+  margin-top: 2px;
+}
+
+h3{
+  color: blue;
+  margin: 0;
+  text-align: left;
+  font-family: 'homeworkregular';
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+p{
+  font-size: 115%;
+}
+
+.canvasjs-chart-canvas {
+  border: 2px solid black;
+}
+
+body{
+  background-color: #CEE68D ;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body a{
+  text-decoration: none;
+}
+
+#champs{
+  font-size: 75%;
+  font-style: italic;
+}
+
+#menu{
+  width: 84%;
+  margin-left: 210px;
+	padding: 0;
+  text-align: center;
+  border: 3px solid white;
+  background-color: #5E5E5E;
+}
+
+#menu li{
+	display: inline;
+	list-style: none;
+}
+
+#menu li :hover{
+  background-color: white;
+  color:black;
+  border-radius: 7px;
+}
+
+#menu a {
+	display:inline-block;
+	margin: 5px;
+  color:white;
+  font-size: 25px;
+  font-family:'homeworkregular';
+}
+
+#sep_left{
+  font-size:25px;
+  border-left: solid white 2px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#sep_right{
+  font-size:25px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.alignLeft{
+  float: left;
+}
+
+.alignRight{
+  display: block;
+  float: right;
+}
+
+*{
+  font-family : Cambria;
+  font-size: 17px;;
+}
+
+.logo1{
+  width: 300px;
+  height: 100px;
+  float: left;
+}
+
+.logo2{
+  width: 200px;
+  height: 200px;
+  float: right;
+}
+
+img{
+  margin-left: auto;
+  margin-right: auto;
+  margin: 5px;
+}
+
+#solutions{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+
+.logo_left{
+  height: 100px;
+  text-align: left;
+  vertical-align: center;
+  margin: 0;
+}
+
+.logo_right{
+  height: 200px;
+  text-align: right;
+  margin: 0;
+  vertical-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input[type=text],input[type="email"] {
+  width: 250px;
+  border: 1px solid transparent;
+  padding: 10px;
+  font-size: 17px;
+}
+
+textarea{
+  border: 1px solid transparent;
+  padding: 10px;
+  font-size: 17px;
+}
+
+button{
+  border-radius: 8px;
+  border: solid black 1px;
+  font-size: 17px;
+  padding: 6px 14px;
+  background-color: #EAF9BF;
+}
+
+.autocomplete {
+  position: relative;
+  display: inline-block;
+}
+
+.autocomplete-items{
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  border-bottom: none;
+  border-top: none;
+  z-index: 99;
+  /*position the autocomplete items to be the same width as the container:*/
+  top: 100%;
+  left: 0;
+  right: 0;
+  max-height: 200px;
+  overflow: auto;
+  width: 250px;
+}
+
+.autocomplete-items div {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff; 
+  border-bottom: 1px solid #d4d4d4; 
+}
+
+/*when hovering an item:*/
+.autocomplete-items div:hover {
+  background-color: #999999; 
+}
+
+/*when navigating through the items using the arrow keys:*/
+.autocomplete-active {
+  background-color: DodgerBlue !important; 
+  color: #ffffff; 
+}

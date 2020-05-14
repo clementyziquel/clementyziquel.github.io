@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ecological Amnesia | Sauvons Notre Climat</title>
+    <script src="node_modules/papaparse/papaparse.js"></script>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+
+    <div id="en_tete">
+      <a href="../index.html"><img class="logo" src="images/logo.png"></a>
+      <a href="../index.html"><h1>Les preuves du changement climatique</h1></a>
+
+
+      <ul id="menu">
+      <li id="sep_right"><a href="../index.html">Accueil</a></li>
+      <li id="sep_left"><a href="one.html">Voir les données pour une ville</a></li>
+      <li id="sep_left"><a href="compare.html">Comparer deux villes</a></li>
+      <li id="sep_left"><a href="solutions.html">Les solutions</a></li>
+      <li id="sep_left"><a href="contact.html">Contact</a></li>
+      </ul>
+  </div>
+  <br><br>
+
+    
+    <h2>Chargement des données</h2>
+    
+    <form autocomplete="off" style="display: inline;">
+      <div class="autocomplete" style="width:300px;">
+        <input id="myInput" type="text" placeholder="Entrez une ville">
+      </div>
+    </form>
+    <button onclick="downloadville()">Télécharger</button>
+    <p style="font-style: italic; color: red;" id="erreur"></p>
+    <label>Importez le fichier que vous venez de télécharger</label>
+    <input accept=".csv" type="file" id="fileInput1" onchange="parser()"></input> <br>
+
+    <div style="text-align: center;">
+      <h2 id="parse_status"></h2>
+      <p><div id="parse_advise"></div></p>
+    </div>
+
+    <div class="alignLeft" id="pos_plot1" style="height: 370px; width: 49%;"></div>
+    <div class="alignRight" id="pos_plot2" style="height: 370px; width: 49%;"></div>
+
+    <!-- Affichage de l'analyse des graphes -->
+    <div style="height:390px"></div>
+    <p>
+      <div  id="coeff1"></div>
+      <div id="affiche_analyse_temp1"></div>
+    </p>
+    <p>
+      <div id="tendance1"></div>
+      <div id="tendance2"></div>
+    </p>
+
+
+    <div class="alignLeft" id="pos_plot3" style="height: 400px; width: 100%;"></div>
+
+    <!-- Affichage de l'analyse du graphe -->
+    <div style="height:420px"></div>
+    <p>
+      <div id="coeff2"></div>
+      <div id="affiche_analyse_precip1"></div>
+    </p>
+    <p><div id="tendance3"></div></p>
+
+    <HR class="alignLeft" size="1px" width="100%">
+    <p style="font-size: 15px;" id="note"></p>
+    <h5>Données météorologiques: www.historique-meteo.net</h5>
+    <br>
+
+    <script type="text/javascript" src="const_functions.js"></script>
+    <script type="text/javascript" src="treat_data.js"></script>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,7377 @@
+ville;numero
+ponta delgada;5
+le cap;6
+alger;7
+oran;8
+cotonou;9
+francistown;10
+ouagadougou;11
+praia;12
+abidjan;13
+banjul;14
+accra;15
+port-louis;16
+port-mathurin;17
+nairobi;18
+tripoli (libye);19
+antananarivo (tananarive);20
+bamako;21
+marrakech;22
+fes;23
+rabat;24
+chefchaouen;25
+casablanca;26
+tanger;27
+agadir;28
+nouakchott;29
+mamoudzou;30
+maputo;31
+windhoek;32
+niamey;34
+saint-denis;35
+dakar;36
+victoria (mahe);37
+mbabane;38
+dodoma;39
+zanzibar (iles de unguja, pemba et mafia);40
+lome;41
+tunis;42
+djerba;43
+hammamet;44
+bizerte;45
+lusaka;46
+saint john's;47
+nassau;48
+bridgetown;49
+la havane;50
+varadero;51
+santiago de cuba;52
+vinales;53
+trinidad;54
+roseau;55
+saint-georges;56
+pointe-a-pitre;57
+basse-terre;58
+saintes (terre de haut);59
+kingston;60
+montego bay;61
+fort de france;62
+sainte anne;63
+montagne pelee;64
+saint-domingue;65
+puerto plata;66
+punta cana;67
+gustavia;68
+castries;69
+marigot (saint-martin);70
+kingstown;71
+port-d'espagne;72
+buenos aires;73
+iguazu;74
+salta;75
+tilcara;76
+valdes;77
+ushuaia;78
+la paz;79
+santa cruz (bolivie);80
+le lac titicaca (copacabana);81
+rio de janeiro;82
+paraty;84
+alter do chao;85
+sao paulo;86
+ile de paques;87
+santiago du chili;88
+valparaiso;89
+portillo;90
+san pedro de atacama (desert d'atacama);91
+puerto natales;92
+pucon;93
+bogota;94
+cartagena (carthagene des indes);95
+quito;96
+l'oriente (amazonie);97
+iles galapagos;98
+cayenne;99
+asuncion;100
+juliaca (lac titicaca);101
+lima;102
+machu picchu;103
+arequipa;104
+cuzco;106
+mancora;107
+san juan;108
+montevideo;109
+caracas;110
+archipel de los roques;111
+merida;112
+montreal;113
+quebec;114
+toronto (ontario);115
+vancouver (colombie britannique);116
+ottawa;117
+winnipeg (manitoba);118
+calgary;119
+hebron (ile-du-prince-edouard);120
+alaska;121
+boston;122
+chicago;123
+miami (floride);124
+seattle;125
+hawaii;127
+las vegas;128
+los angeles;129
+louisiane;130
+new york;131
+san francisco;132
+washington d.c.;133
+belmopan;134
+ville de guatemala ;135
+tulate;136
+antigua;137
+tegucigalpa;138
+copan ruinas;139
+iles de la baie (islas de la bahia);140
+cayos cochinos;141
+tela;142
+managua;143
+san jose;144
+tamarindo;145
+montezuma;146
+ville de panama;147
+ile de taboga;148
+boquete;149
+mexico;150
+cancun;151
+guadalajara;152
+strasbourg;153
+mulhouse;154
+colmar (haut-rhin);155
+bordeaux (gironde);156
+perigord - dordogne;157
+pau (bearn);158
+bayonne (pays basque);159
+sarlat;160
+clermont-ferrand;161
+mont-dore;162
+bourges (cher/berry);163
+orleans;164
+chateaux de la loire;165
+chartres;166
+chateauroux (indre);167
+tours;168
+blois;169
+dijon;170
+auxerre (yonne);171
+rennes (ille-et-vilaine);172
+vannes (morbihan);173
+saint-malo;174
+brest (finistere);175
+belle-ile-en-mer;176
+reims;177
+troyes (aube);178
+ajaccio (corse-du-sud);179
+bastia (haute-corse);180
+nice (alpes-maritimes);181
+marseille;182
+monaco;183
+avignon (vaucluse);184
+besancon (doubs);186
+belfort;187
+paris;188
+versailles (yvelines);189
+disneyland paris;190
+parc asterix;191
+montpellier (herault);192
+carcassonne (aude);193
+beziers;194
+nimes (gard);195
+amelie-les-bains (pyrenees-orientales);196
+limoges (haute-vienne);197
+tulle;198
+metz (moselle);199
+nancy (meurthe-et-moselle);200
+lyon;201
+ardeche;202
+drome;203
+chamonix;204
+toulouse (haute-garonne);205
+lourdes;206
+albi (tarn);207
+rocamadour;208
+millau;209
+lille (nord);210
+touquet;211
+arras (pas-de-calais);212
+lens;213
+calais;214
+dunkerque;215
+caen (calvados);216
+bayeux;217
+rouen (seine-maritime);218
+honfleur;219
+mont saint-michel;220
+nantes;221
+puy du fou;222
+guerande;223
+la vendee (la roche-sur-yon);224
+angers;225
+amiens (somme);226
+baie de somme (st valery);227
+senlis;228
+royan;229
+ile de re;230
+ile d'oleron;231
+la rochelle;232
+poitiers (vienne);233
+marais poitevin (marans);234
+futuroscope;235
+bakou;236
+yangon (rangoun);237
+mandalay;238
+bagan;239
+bandar;240
+thimphou;241
+phnom penh;242
+siem reap (temples d'angkor);243
+sihanoukville;244
+battambang;245
+hong kong;246
+macao;247
+shanghai;248
+pekin (beijing);249
+xian;250
+guilin;251
+suzhou;252
+hangzhou;253
+kunming;254
+haikou (ile de hainan);255
+canton (guangzhou);256
+seoul;257
+ladakh;258
+new delhi;259
+bombay (mumbai);260
+goa;261
+agra (taj mahal);262
+varanasi (benares) - uttar pradesh;263
+le rajasthan;264
+calcutta - bengale-occidental;266
+bodhgaya  - bihar;267
+le kerala;268
+bangalore  - karnataka;269
+l'himachal pradesh (shimla);270
+bali;271
+lombok;272
+java (jakarta);273
+sumatra (medan);274
+teheran;276
+kyoto;277
+tokyo;278
+bichkek;279
+vientiane;280
+luang prabang;281
+vang vieng;282
+kuala lumpur;283
+langkawi;285
+pangkor;286
+penang;287
+male;288
+oulan-bator;289
+katmandou;290
+tachkent;291
+islamabad;292
+manille;293
+baguio (ile de luzon);294
+ile de mindoro (puerto galera);295
+boracay;296
+cebu (iles des visayas);297
+ile de mindanao (dabaw);298
+puerto princesa (ile de palawan);299
+singapour;300
+colombo;301
+taipei;302
+bangkok;303
+chiang mai;304
+chiang rai;305
+pai;306
+koh samui;307
+koh tao;308
+koh phangan;309
+koh lanta;310
+koh phi phi;311
+phuket;312
+koh chang;313
+krabi - ao nang;314
+pattaya;315
+lhassa;316
+hanoi;317
+la baie d'halong;318
+sapa (nord du vietnam);319
+hoi an;320
+hue;321
+ho chi minh ville;322
+phu quoc;323
+la tasmanie (hobart);324
+sydney;325
+melbourne;326
+suva;327
+noumea;328
+auckland;329
+wellington (ile du nord);330
+christchurch (ile du sud);331
+tahiti;332
+hiva oa (iles marquises);333
+moorea;334
+mata-utu;335
+le caire;336
+louxor;337
+dubai;338
+abu dhabi;339
+jerusalem;340
+tel aviv;341
+amman;342
+petra;343
+beyrouth;345
+mascate;346
+sanaa;347
+tirana;348
+la baviere;349
+berlin;350
+munich;351
+andorra la vella;352
+jersey;353
+guernesey;354
+londres;355
+liverpool;356
+manchester;357
+erevan;358
+vienne;359
+graz;360
+linz;361
+bruxelles;362
+liege;363
+charleroi;364
+bruges;365
+oostende;366
+gand;367
+minsk;368
+sarajevo;369
+sofia;370
+nicosie;371
+dubrovnik;372
+zagreb;373
+split;374
+opatija;375
+les iles croates (hvar, brac,mljet...);376
+copenhague;377
+edimbourg;378
+glasgow;379
+l'andalousie;380
+barcelone;383
+la catalogne;385
+madrid;386
+seville;387
+valence;388
+gijon (espagne du nord);390
+bilbao;391
+tallinn;392
+helsinki;393
+athenes;394
+amorgos;396
+chios;397
+corfou;398
+ile d'hydra;399
+lesbos;400
+milos;401
+mykonos;402
+naxos;403
+rhodes;404
+samos;405
+santorin;406
+sifnos;407
+les iles grecques des cyclades;408
+thessalonique;409
+dublin;411
+budapest;412
+reykjavik;413
+florence;414
+rome;415
+milan;416
+naples;417
+les pouilles;418
+turin;419
+la sardaigne;420
+la sicile;421
+la toscane;422
+venise;423
+bologne;424
+calabre;425
+genes (ligurie);426
+pompei;427
+verone;428
+riga;429
+vilnius;430
+luxembourg-ville;431
+skopje;432
+ohrid;433
+la valette;434
+podgorica;435
+oslo;436
+la laponie (rovaniemi);437
+amsterdam;438
+rotterdam;439
+cardiff;440
+varsovie;441
+cracovie;442
+lisbonne;443
+porto;445
+faro (algarve);446
+prague;447
+bucarest;448
+moscou;449
+saint-petersbourg;450
+bratislava;452
+belgrade;453
+ljubljana;454
+stockholm;455
+geneve;456
+zurich;457
+berne;458
+lausanne;459
+istanbul;460
+ankara;461
+cappadoce (goreme);462
+kiev;463
+l'ile de flores;464
+angra do heroismo (terceira);465
+johannesbourg;466
+kimberley;467
+durban;468
+port elizabeth (afrique du sud);469
+korce;470
+setif;471
+tiemcen;472
+timimoun;473
+tamanrasset;474
+rostock;475
+hambourg;476
+hanovre;477
+essen;478
+francfort;479
+nuremberg;480
+constance;481
+hail;487
+dhahran;488
+riyad;489
+medine;490
+djedda;491
+merignac;492
+agen;493
+biarritz;494
+cordoba;495
+bonaire;498
+curacao;499
+saba;500
+saint-eustache;501
+aruba;502
+sint maarten;503
+darwin;504
+daly waters;505
+cairns;506
+dampier;507
+alice springs;508
+oodnadatta;510
+brisbane (queensland);511
+perth;512
+adelaide;513
+salzbourg;514
+innsbruck;515
+klagenfurt;516
+montlucon;517
+aurillac (cantal);518
+vichy;519
+gyumri (armenie);520
+ganja;521
+dacca;522
+jessore;523
+chittagong;524
+brest (bielorussie);525
+vitebsk;526
+bastogne;527
+kandi;528
+tchaourou;529
+hamilton;530
+mytkyina;531
+sittwe;532
+myeik (iles mergui);533
+cochabamba;534
+concepcion;535
+sucre;536
+potosi;537
+uyuni;538
+mostar;539
+banja-luka;540
+maun;541
+gaborone;542
+tsabong;543
+belem;544
+manaus;545
+porto velho;546
+salvador de bahia;547
+brasilia;548
+cuiaba;549
+belo horizonte;550
+porto alegre;551
+varna;552
+dori;553
+bobo-dioulasso;554
+gaoua;555
+bujumbura;556
+kratie;557
+maroua;558
+ngaoundere;559
+douala;560
+yaounde;561
+moloundou;562
+resolute (nunavut);563
+yellowknife (territoire du nord-ouest);564
+whitehorse (yukon);565
+churchill;566
+prince albert (saskatchewan);567
+halifax (nouvelle ecosse);568
+punta arenas;569
+urumqi;571
+fuzhou;572
+qingdao;573
+agros;574
+tumaco;576
+barranquilla;577
+moroni (ile grande comore);578
+taejon;579
+busan (pusan);580
+puntarenas;581
+puerto limon;582
+bouake;583
+ferkessedougou;584
+gospic;585
+rijeka;586
+viborg;587
+ville de djibouti;588
+alexandrie;589
+charm el-cheikh;590
+hurghada;591
+assouan;592
+koweit;593
+muharraq (bahrein);594
+doha (qatar);595
+puyo;596
+guayaquil;597
+tarifa;598
+majorque;599
+minorque;600
+formentera;602
+ibiza;603
+lanzarote;604
+fuerteventura;605
+tenerife;606
+grande canarie;607
+la gomera;608
+la palma;609
+el hierro;610
+tartu;611
+la nouvelle orleans;612
+dallas (texas);613
+phoenix (arizona);614
+atlanta (georgie);615
+denver (colorado);616
+l'utah;617
+nadi;618
+sodankyla;619
+jyvaskyla;620
+libreville;621
+bitam;622
+franceville;623
+georgetown (gambie);624
+soukhoumi;625
+koutaissi;626
+batoumi;627
+tbilissi;628
+kumasi;629
+tamale;630
+kouroussa;631
+conakry;632
+beyla;633
+georgetown (guyana);634
+lethem;635
+maripasoula;636
+port-au-prince;637
+choluteca;638
+szeged;639
+le lac balaton;640
+pecs;641
+tombouctou;642
+pontianak (borneo);643
+chiraz;644
+ispahan;645
+meched (mashhad);646
+tabriz;647
+bandar abbas;648
+malin head;649
+birr;650
+valentia;651
+stonehenge;652
+akureyri;653
+haifa;655
+pescara;656
+brindisi;657
+sapporo (hokkaido);658
+sendai (honshu);659
+naha (okinawa);660
+kagoshima (kyushu);661
+aqaba;663
+astana;664
+karaganda;665
+almaty;666
+lodwar;667
+kisumu;668
+mombasa;669
+naryn;670
+jalal-abad;671
+pakse;672
+maseru;673
+liepaja;674
+ksara;675
+benghazi;676
+klaipeda;678
+toliary;679
+antsiranana;680
+nosy-be;681
+kota bharu;682
+mersing;683
+sandakan;684
+kuching;685
+lilongwe;686
+le lac malawi;687
+zomba;688
+tessalit;689
+nema;690
+chihuahua;691
+guaymas;692
+chichen itza;693
+acapulco;694
+les iles carolines;695
+les iles mariannes;696
+les iles marshall;697
+chisinau;698
+hatgal;699
+choybalsan;700
+ulaangom;701
+kotor;702
+beira;703
+tete;704
+lichinga;705
+walvis bay;706
+grootfontein;707
+nepalganj;708
+l'everest;709
+bluefields;710
+bilma;711
+tromso;712
+bergen;713
+koumac;714
+l'ile lifou;715
+hokitika;716
+invercargill;717
+salalah;718
+masirah;719
+buraini;720
+kampala;721
+kabale;722
+gulu;723
+chimbay;724
+les iles cook;725
+les iles tonga;726
+les iles salomon;727
+les iles kiribati;728
+les iles samoa;729
+les iles gilbert;730
+peshawar;731
+lahore;732
+quetta;733
+karachi;734
+madang;735
+port moresby;736
+mariscal estigarribia;737
+maastricht;738
+iquitos;739
+legaspi;740
+zamboanga;741
+koszalin;742
+suwalki;743
+poznan;744
+tubuai (iles australes);745
+rikitea (iles gambier);746
+saint-pierre (reunion);747
+saint-paul;748
+cilaos;749
+constanta;750
+cluj-napoca;751
+plymouth;752
+les iles shetland;753
+belfast;754
+vladivostok;755
+iakoutsk;756
+sotchi;757
+omsk;758
+kigali;759
+le lac kivu;760
+saint-pierre;761
+san salvador;762
+sao tome;763
+casamance;764
+matam;765
+novi sad;766
+nis;767
+freetown;768
+kosice;769
+maribor;770
+jaffna;771
+trincomalee;772
+nuwara eliya;773
+pajala;774
+goteborg;775
+ostersund;776
+lugano;777
+davos;778
+paramaribo;779
+tafelberg (sipaliwini district);780
+douchanbe;781
+khorog;782
+tainan;783
+mbeya;784
+tabora;785
+brno;786
+ubon ratchathani (isan);787
+songkhla;788
+ayutthaya;789
+dili;790
+sokode;791
+gafsa;792
+gabes;793
+kebili;794
+monastir;795
+tabarka;796
+achgabat;797
+krasnovodsk;798
+kushka;799
+trabzon;800
+van;801
+izmir;802
+antalya;803
+odessa;804
+yalta;805
+chernivtsi;806
+punta del este;807
+rocha;808
+salto;809
+port-vila;810
+santa elena de uairen;811
+aden;812
+al mukalla;813
+kasama;814
+mongu;815
+saint-jacques de compostelle;816
+praslin (anse volbert);817
+ile de la digue;818
+gan;819
+dhidhdhoo;820
+andros town;821
+freeport;822
+snug corner;823
+negril;824
+ocho rios;825
+port morant;826
+la patagonie;827
+malaga;828
+essaouira;829
+paris;832
+nice;833
+marseille;834
+nantes;835
+bordeaux;836
+lille;837
+lyon;838
+perpignan;848
+le parc kruger;849
+pretoria;850
+mobile (alabama);851
+anchorage;852
+djelfa;853
+djanet;854
+ghardaia;855
+biskra;856
+stuttgart;858
+cologne;859
+les landes (mont-de-marsan);861
+anglet;862
+el calafate;863
+la rioja;864
+mar del plata;865
+mendoza;866
+tucson;867
+roma;868
+gold coast;869
+canberra;870
+le puy-en-velay (haute-loire);871
+moulins (allier);872
+alencon (orne);873
+saint-lo (manche);874
+anvers (antwerpen);875
+nevers (nievre);876
+recife;877
+fortaleza;878
+ilha grande;880
+florianopolis (ile de santa catarina);881
+curitiba;882
+bourgas (burgas);883
+sacramento;884
+sherbrooke;885
+tadoussac;886
+charleville-mezieres (ardennes);887
+chalons-en-champagne (marne);888
+shenzhen;889
+wuhan;890
+sanya;891
+chengdu;892
+paphos;893
+larnaca;894
+medellin;895
+zadar;896
+cayo santa maria;897
+holguin;898
+cayo coco;899
+baracoa;900
+torremolinos;901
+tolede;902
+marbella;903
+grenade;904
+cordoue;905
+cadix;906
+almeria;907
+alicante;908
+saragosse;910
+santander;911
+salamanque;912
+burgos;913
+denia;914
+torrevieja;915
+benidorm;916
+roquetas de mar;917
+almunecar;918
+nerja;919
+fuengirola;920
+estepona;921
+huelva;922
+vigo;923
+marin;924
+begur;925
+calella;926
+tarragone;927
+salou;928
+cambrils;929
+peniscola;930
+cullera;931
+llanca;932
+blanes;933
+pineda de mar;934
+cadaques;935
+roses (rosas);936
+lloret de mar;937
+sitges;938
+malgrat de mar;939
+empuriabrava;940
+salem (oregon);941
+philadelphie (pennsylvanie);942
+rhode island;943
+nashville (tennessee);944
+le wisconsin;945
+le wyoming;946
+le missouri;947
+santa fe (nouveau-mexique);948
+reno (nevada);949
+new jersey;950
+le montana;951
+cleveland (ohio);952
+detroit (michigan);953
+l'oklahoma;954
+l'arkansas;955
+la caroline du nord;956
+la caroline du sud;957
+le connecticut;958
+le dakota du nord;959
+l'illinois;960
+le kansas;961
+louisville (kentucky);962
+le mississippi;963
+le maryland;964
+le maine;965
+le massachusetts;966
+minneapolis (minnesota);967
+orlando;968
+fort lauderdale;969
+tampa;970
+la virginie;971
+myrtle beach;972
+houston;973
+santa monica;974
+monument valley;975
+la death valley (vallee de la mort);976
+hollywood;977
+palm springs;978
+san diego;979
+santa barbara;980
+moab;981
+salt lake city;982
+la ciotat;983
+le lavandou;984
+menton;985
+toulon;986
+tarbes;987
+sete;988
+saint-nazaire;989
+saint-etienne;990
+saint-brieuc (cotes d'armor);991
+quimper;992
+porto-vecchio;993
+orange;994
+narbonne;996
+montelimar;997
+melun;998
+macon;999
+lorient;1000
+le mans (sarthe);1001
+lannion;1002
+hendaye;1004
+gruissan;1005
+grenoble (isere);1006
+gap (hautes-alpes);1007
+evreux (eure);1008
+etretat;1009
+dinard;1010
+deauville;1011
+cognac;1012
+chambery;1013
+cannes;1014
+brive-la-gaillarde (correze);1015
+bourg-en-bresse (ain);1016
+bergerac;1017
+beauvais (oise);1018
+bandol;1019
+sanary-sur-mer;1020
+calvi;1021
+bonifacio;1022
+sainte-maxime;1023
+saint-raphael;1024
+annecy (haute-savoie);1025
+juan-les-pins;1026
+hyeres;1027
+la grande-motte;1028
+cassis;1029
+vias-plage;1030
+palavas-les-flots;1031
+saint-tropez;1032
+cavalaire;1033
+frejus;1034
+auch (gers);1035
+chaumont (haute-marne);1036
+cabourg;1037
+erquy;1038
+perros-guirec;1039
+douarnenez;1040
+benodet;1041
+fouesnant;1042
+concarneau;1043
+carnac;1044
+la baule;1045
+pornic;1046
+saint-jean-de-monts;1047
+la tranche-sur-mer;1048
+la palmyre;1049
+soulac;1050
+lacanau;1051
+arcachon;1052
+biscarrosse;1053
+mimizan;1054
+seignosse;1055
+capbreton;1056
+bidart;1057
+saint-jean-de-luz;1058
+banyuls-sur-mer;1059
+collioure;1060
+argeles-sur-mer;1061
+canet-en-roussillon;1062
+port-leucate;1063
+valras-plage;1064
+le jura;1065
+aix-en-provence;1066
+aix-les-bains;1067
+ales;1068
+angouleme (charente);1069
+annonay;1070
+antibes;1071
+gibraltar;1072
+heraklion;1074
+marie-galante;1076
+kourou;1077
+le havre;1078
+dieppe;1079
+evry (essonne);1080
+tos;1081
+rishikesh;1082
+pondichery;1083
+manali;1084
+chennai (madras);1085
+leh;1086
+kota;1087
+hyderabad;1088
+dharamsala;1089
+les iles andaman;1090
+galway;1092
+trapani;1093
+taormina;1094
+palerme;1095
+cefalu;1096
+catane;1097
+cagliari;1098
+trieste;1099
+sienne;1100
+pise;1101
+olbia;1102
+lecce;1103
+capri;1104
+bari;1105
+alghero;1106
+rimini;1107
+osaka;1108
+la mer morte (al mazraa);1109
+wadi rum;1110
+mende (lozere);1111
+gueret (creuse);1112
+kaunas;1113
+epinal;1114
+les vosges;1115
+antsirabe;1116
+zagora;1118
+taroudant;1119
+settat;1120
+oujda;1121
+ouarzazate;1122
+nador;1123
+meknes;1124
+el jadida;1125
+beni mellal;1126
+dakhla;1127
+safi;1128
+saidia;1129
+tetouan;1130
+oualidia;1131
+tulum;1132
+playa del carmen;1133
+oaxaca;1134
+cozumel;1135
+puerto vallarta;1136
+monterrey;1137
+riviera maya;1138
+los cabos;1139
+montauban;1140
+castres;1141
+foix (ariege);1142
+rodez (aveyron);1143
+cahors (lot);1144
+valenciennes;1145
+trondheim;1146
+stavanger;1147
+lofoten;1148
+albuquerque;1149
+sur;1150
+portland;1151
+anton;1152
+cholet;1153
+laval (mayenne);1154
+laon (aisne);1155
+niort (deux-sevres);1156
+gdansk;1157
+sintra;1158
+funchal;1159
+viana do castelo;1160
+cascais;1161
+albufeira;1162
+bayahibe;1164
+roanne;1165
+thonon-les-bains;1166
+la savoie;1167
+oxford;1168
+inverness;1169
+aberdeen;1170
+novosibirsk;1171
+volgograd;1172
+sion;1173
+montreux;1174
+fribourg;1175
+austin;1176
+hua hin;1177
+tozeur;1178
+sfax;1179
+kemer;1180
+bodrum;1181
+phan thiet;1182
+nha trang;1183
+virginia beach;1184
+olympie;1185
+delphes;1186
+kalambaka (les meteores);1187
+plivice (parc national);1188
+trogir;1189
+krka;1190
+angeles city;1191
+bora-bora;1192
+fernando de noronha (archipel);1193
+le grand canyon;1194
+les chutes du niagara;1195
+yosemite (parc national);1196
+le kilimandjaro;1197
+la mecque;1198
+le vatican;1199
+yellowstone (parc national);1200
+savar;1202
+dar es salaam;1203
+saumur;1204
+les sables-d'olonne;1205
+cork;1206
+saly portudal;1207
+khao lak (parc national);1208
+l'ile de kos;1209
+le yucatan;1210
+boa vista (ile);1211
+nabeul;1212
+sousse;1213
+pas de la case;1214
+ordino;1215
+encamp;1216
+la massana;1217
+all saints;1218
+liberta;1219
+potters village;1220
+speightstown;1221
+holetown;1222
+bathsheba;1223
+long cay;1224
+corozal;1225
+caye caulker;1226
+belize city;1227
+saint george's;1228
+devonshire;1229
+southampton (bermudes);1230
+phuentsholing;1231
+geylegphug;1232
+wangdue;1233
+kuala belait;1234
+pekan tutong;1235
+seria;1236
+sukang;1237
+bangar;1238
+gitega;1240
+ngozi;1241
+rwegura;1242
+muyinga;1243
+nyanza-lac (lac tanganyika);1244
+mutsamudu (moutsamoudou);1245
+fomboni (ile moheli);1246
+domoni (ile anjouan);1247
+ali sabieh;1248
+tadjourah;1249
+obock;1250
+khor angar;1251
+dorra;1252
+portsmouth;1253
+marigot (dominique);1254
+berekua;1255
+saint-joseph (dominique);1256
+rosalie;1257
+thomazeau;1258
+fort liberte;1259
+les gonaives;1260
+cap-haitien;1261
+port-de-paix;1262
+les cayes;1263
+saint-marc;1264
+l'ile de la gonave;1265
+l'ile de la tortue;1266
+armagh;1267
+ballycastle (causeway coast);1268
+derry (londonderry);1270
+donwpatrick (lecale peninsula/mourne mountains);1271
+enniskillen (fermanagh);1272
+larne;1273
+mafeteng;1274
+mokhotlong;1275
+quthing;1276
+esch-sur-alzette;1277
+ettelbruck;1278
+wiltz;1279
+gozo;1280
+tas-sliema;1281
+manikata;1282
+mosta;1283
+luqa;1284
+dapani;1285
+chiconi;1286
+mtsamboro;1287
+boueni;1288
+iloni;1289
+tiraspol;1290
+cahul;1291
+balti;1292
+ribnita;1293
+briceni;1294
+swansea;1295
+conwy;1296
+snowdonia (parc national);1297
+holyhead;1298
+brecon beacons (parc national);1300
+pembrokeshire;1301
+bayamon;1302
+caguas;1303
+mayaguez?;1304
+ponce;1305
+arecibo;1306
+nikki beach;1307
+l'ile chevreau;1308
+l'ile fourchue;1309
+l'ile fregate;1310
+l'anse de grand cul-de-sac;1311
+colombier (saint-barth);1312
+l'anse-marcel;1314
+la baie-de-lucas;1315
+la baie-nettle;1316
+colombier;1317
+miquelon-langlade;1318
+l'ile aux marins;1319
+l'ile du grand-colombier;1320
+barrouallie;1321
+chateaubelair;1322
+georgetown;1323
+layou;1324
+port elizabeth;1325
+anse-la-raye;1326
+choiseul;1327
+dennery;1328
+gros islet;1329
+laborie;1330
+micoud;1331
+soufriere;1332
+vieux fort;1333
+san miguel;1334
+santa ana;1335
+acajutla;1336
+aguilares;1337
+metapan;1338
+neves;1339
+santana;1340
+trindade;1341
+santo antonio;1342
+santo amaro;1343
+santa catarina;1344
+lungi;1345
+daru;1346
+bonthe;1347
+makeni;1348
+kabala;1349
+koldu;1351
+kenema;1352
+manzini;1353
+big bend;1354
+nhlangano;1355
+pigg's peak;1356
+shigatse?;1357
+chamdo;1359
+baucau;1360
+pante makasar (oecussi);1361
+ermera;1362
+viqueque;1363
+liquica;1364
+suai;1365
+san fernando;1366
+chaguanas;1367
+arima;1368
+marabella;1369
+point fortin;1370
+luganville;1371
+norsup;1372
+lenakel;1373
+sola;1374
+ulufua;1375
+sigave;1376
+kolia;1377
+vele;1378
+tavai;1379
+grenville (saint andrew);1380
+saint david;1381
+gouyave (saint john);1382
+victoria (saint mark);1383
+sauteurs (saint patrick);1384
+agalega;1385
+vacoas;1386
+flacq;1387
+souillac;1388
+tamarin;1389
+grand baie;1390
+flic en flac;1391
+mahebourg;1392
+curepipe;1393
+petite butte;1394
+port sud-est;1395
+petit gabriel;1396
+mont lubin;1397
+baie aux huitres;1398
+shkoder;1399
+vlore;1401
+theth;1402
+saranda;1403
+kukes;1404
+durres;1405
+berat;1406
+kapan;1407
+sevan;1408
+vanadzor;1409
+lankaran;1410
+mindelo;1415
+sal rei;1416
+sao vicente (ile);1417
+santa maria (cap vert);1418
+maio (ile);1419
+santo antao (ile);1420
+tarrafal;1421
+frederikshavn;1423
+fredericia;1424
+billund;1425
+skagen;1426
+snedsted (parc national de thy);1427
+saaremaa;1428
+lahemaa (parc national);1429
+soomaa (parc national);1430
+paldiski;1431
+l'ile de hiiumaa;1432
+viljandi;1433
+rakvere;1434
+otepaa;1435
+basse santa su;1436
+kololi;1437
+serrekunda;1438
+brufut;1439
+linden;1440
+bartica;1441
+parika;1442
+new amsterdam;1443
+myvatn;1444
+isafjordur;1445
+keflavik;1446
+hofn;1447
+selfoss;1448
+eyjafjallajokull;1449
+husavik;1450
+grindavik;1451
+ventspils;1452
+daugavpils;1453
+jurmala;1454
+sigulda;1455
+jelgava;1456
+kuldiga;1457
+tripoli (liban);1458
+tyr;1459
+baalbek;1460
+byblos;1461
+jounieh;1462
+batroun;1463
+bitola;1464
+gostivar;1465
+tetovo;1466
+mavrovo (parc national);1467
+stroumitsa;1468
+berovo;1469
+guevgueliya;1470
+nouadhibou;1471
+atar;1472
+akjoujt;1473
+bir moghrein;1474
+ulcinj;1475
+budva;1476
+bar;1477
+herceg novi;1478
+tivat;1479
+petrovac na moru;1480
+zabljak;1481
+cetinje;1482
+san juan del sur;1483
+granada;1484
+leon;1485
+l'ile d'ometepe;1486
+les iles solentiname;1487
+masaya;1488
+rivas;1489
+mombacho volcano (parc national);1490
+birni n konni;1491
+zinder;1492
+tillaberi;1493
+tahoua;1494
+nguigmi;1495
+maradi;1496
+maine-soroa;1497
+agadez;1498
+nukus;1499
+samarcande (samarkand);1500
+termez;1501
+boukhara;1502
+chakhrisabz;1503
+ourguentch;1504
+khiva;1505
+rabaul;1506
+lae;1507
+kiunga;1508
+kavieng;1509
+goroka;1510
+pedro juan caballero;1511
+encarnacion;1512
+ciudad del este;1513
+san bernardino;1514
+aregua;1515
+piribebuy;1516
+kibungo;1517
+gisenyi;1518
+butare;1519
+akagera (parc national);1520
+ruhengeri;1521
+ostrava;1522
+karlovy vary;1523
+cesky krumlov (boheme-du-sud);1524
+la moravie (olomouc);1525
+kutna hora;1526
+telc;1527
+sumava (parc national);1528
+harrachov (station de ski);1529
+zilina;1530
+sliac;1531
+lucenec;1532
+hurbanovo;1533
+tisinec;1534
+poprad;1535
+bled;1536
+koper;1537
+piran;1538
+portoroz;1539
+kranjska gora;1540
+bovec;1541
+brownsberg (parc naturel);1542
+kabalebo;1543
+nieuw nickerie;1544
+lelydorp;1545
+albina;1546
+kwamalasamutu;1547
+khodjent;1548
+pendjikent;1549
+murghab;1550
+istaravchan;1551
+kulob;1552
+kaohsiung;1553
+taichung;1554
+le parc national de kenting;1555
+le sun moon lake;1556
+l'ile verte (lutao);1557
+keelung;1558
+hsinchu;1559
+chiayi;1560
+atakpame;1561
+kpalime;1562
+kara;1563
+le lac togo (togoville);1564
+sigatoka;1565
+savusavu;1566
+l'ile de taveuni;1567
+lautoka;1568
+l'ile de vanua levu;1569
+l'ile de kadavu;1570
+malolo lailai;1571
+haguenau;1572
+schiltigheim;1573
+obernai;1574
+selestat;1575
+ribeauville;1576
+niederbronn-les-bains;1577
+sao miguel;1578
+sao jorge;1579
+santa maria (acores);1580
+furnas;1581
+homiel;1582
+moguilev;1583
+silichy;1584
+niasvij;1585
+baranavitchy;1586
+tuzla;1587
+medugorje;1588
+neum;1589
+zenica;1590
+trebinje;1591
+gorazde;1592
+plovdiv;1593
+melnik;1594
+slantchev briag (sunny beach);1595
+nessebar;1596
+sozopol;1597
+albena;1598
+bansko;1599
+save;1600
+natitingou;1601
+lokossa;1602
+bohicon;1603
+ulsan;1604
+daejeon;1605
+sokcho;1606
+gyeongju;1607
+gwangju;1608
+gangneung;1609
+incheon;1610
+yamoussoukro;1613
+grand-bassam;1614
+assinie;1615
+san-pedro;1616
+korhogo;1617
+les rousses;1618
+arbois;1619
+pontarlier;1620
+morteau;1621
+montbeliard;1622
+vesoul;1623
+port-gentil;1624
+lastoursville;1625
+cape coast;1626
+tema;1627
+le parc national mole;1628
+sekondi-takoradi;1629
+akosombo;1630
+san marcos;1631
+huehuetenango;1632
+flores;1633
+coban;1634
+rio dulce;1635
+labe;1637
+le parc national du haut niger;1638
+kankan;1639
+kamsar;1640
+kindia;1641
+nzerekore;1642
+saint-laurent-du-maroni;1644
+roura;1645
+sinnamary;1646
+awala-yalimapo;1647
+kostanai;1648
+oskemen;1649
+balkhash (lac balkhash);1650
+aktau;1651
+karakol (lac yssyk koul);1652
+och;1653
+tcholponata;1654
+arslanbob;1655
+palanga;1656
+siauliai;1657
+trakai;1658
+druskininkai;1659
+nida;1660
+blantyre;1661
+mzuzu;1662
+nkhata bay;1663
+nyika (parc national);1665
+nkhotakota;1666
+maafushi;1667
+l'atoll addu;1668
+hulhule;1669
+thulusdhoo;1670
+dharavandhoo;1671
+naifaru (atoll faadhippolhu);1672
+sikasso;1673
+segou;1674
+mopti;1675
+kidal;1676
+kayes;1677
+gao;1678
+le lamentin;1679
+les trois-ilets;1680
+le carbet;1681
+la presqu'ile de la caravelle;1682
+sainte-luce;1683
+la trinite;1684
+grand'riviere;1685
+swakopmund;1686
+opuwo;1687
+luderitz;1688
+etosha (parc national);1689
+l'ile des pins;1690
+ouvea;1691
+bourail;1692
+mare;1693
+pokhara;1694
+patan;1695
+lukla;1696
+royal chitwan (parc national);1697
+rudrapur;1698
+soroti;1699
+kasese;1700
+entebbe;1701
+vlissingen;1702
+la haye;1703
+groningen;1704
+den helder;1705
+de bilt;1706
+utrecht;1707
+eindhoven;1708
+zandvoort;1709
+sibiu;1710
+brasov;1711
+timisoara;1712
+iasi;1713
+oradea (transylvanie);1714
+sinaia;1715
+zlatibor;1716
+kragujevac;1717
+le tara  (alpes dinariques);1718
+prizren;1719
+subotica;1720
+l'ile curieuse;1723
+beau vallon;1724
+avaza;1725
+merv;1726
+turkmenabat;1727
+balkanabat;1728
+dasoguz;1729
+l'archipel de socotra;1730
+al hudaydah;1731
+tarim;1732
+shibam;1733
+livingstone;1734
+parc national de luangwa sud (south luangwa);1735
+kafue (parc national);1736
+kitwe;1737
+siavonga;1738
+jolly harbour;1739
+english harbour;1740
+little san salvador;1741
+harbour island;1742
+marsh harbour;1743
+barisal;1744
+bogra;1745
+ukhia;1746
+saint james;1747
+oistins;1748
+hastings;1749
+somerset village;1750
+l'ile saint david;1751
+paro;1752
+punakha;1753
+kasane;1754
+ghanzi;1755
+po;1756
+ouahigouya;1757
+dedougou;1758
+boromo;1759
+turku;1760
+tampere;1761
+masku;1762
+kuopio;1763
+saint-francois;1764
+sainte-anne;1765
+les abymes;1766
+sainte-rose (guadeloupe);1767
+l'ile de la desirade;1768
+roustavi;1769
+gori;1770
+gyor;1771
+szolnok;1772
+miskolc;1773
+debrecen;1774
+massada;1775
+galilee;1776
+nazareth;1777
+nakuru;1778
+eldoret;1779
+malindi;1780
+phonsavan;1781
+savannakhet;1782
+nong kiau;1783
+louang namtha;1784
+houei sai;1785
+thakhek;1786
+l'ile de khong (don khong);1787
+aubusson;1788
+oradour-sur-glane;1789
+collonges-la-rouge;1790
+thionville;1791
+vandoeuvre-les-nancy;1792
+verdun;1793
+gerardmer;1794
+uliastay;1795
+tsetserleg;1796
+erdenet;1797
+darkhan;1798
+dalanzadgad;1799
+pemba;1800
+le parc national de gorongosa;1801
+vilankulo;1803
+inhambane;1804
+les iles san blas;1805
+bocas del toro;1806
+l'ile contadora;1807
+el porvenir;1808
+gamboa;1809
+los santos (las tablas);1810
+l'peninsule de hicacos;1811
+barahona;1812
+samana;1813
+montecristi;1814
+la romana;1815
+kandy;1816
+galle;1817
+negombo;1818
+bentota;1819
+hikkaduwa;1820
+dambulla;1821
+le parc national de yala;1822
+kalutara;1823
+sundsvall;1824
+norrkoping;1825
+malmo;1826
+abisko;1827
+kiruna;1828
+saint-louis;1829
+cap skirring;1830
+m'bour;1831
+ziguinchor;1832
+lviv;1833
+pripiat;1834
+kharkiv;1835
+donetsk;1836
+colonia del sacramento;1837
+piriapolis;1838
+paysandu;1839
+carmelo;1840
+rivera;1841
+la paloma;1842
+maracay;1843
+san fernando (venezuela);1844
+saint-andre;1845
+saint-joseph (reunion);1846
+saint-benoit;1847
+saint-leu;1848
+sainte-rose (reunion);1849
+saint-philippe;1850
+koh kong;1851
+kampot;1852
+poipet;1853
+krong kaeb;1854
+krong ban lung;1855
+beaune;1856
+vezelay (parc naturel du morvan);1858
+garoua;1859
+epernay;1860
+sedan;1861
+limassol;1863
+santa marta;1864
+santiago de cali;1865
+armenia;1866
+leticia;1867
+manizales;1868
+pereira;1869
+l'ile-rousse;1870
+propriano;1871
+ota;1872
+corte;1873
+cap corse;1874
+figari;1875
+liberia (guanacaste);1876
+monteverde;1877
+quepos;1878
+lambarene;1880
+les iles karimunjawa;1881
+port antonio;1882
+ewarton;1883
+irbid;1884
+jarash;1885
+ramm;1886
+queenstown;1887
+rotorua;1888
+dunedin;1889
+nelson;1890
+khasab;1891
+nizwa;1892
+sohar;1893
+chantilly;1894
+abbeville;1895
+laon;1896
+soissons;1897
+fort-mahon-plage;1898
+skye;1899
+dundee;1900
+le loch ness (lac);1901
+oban;1902
+thurso;1903
+charjah;1904
+fujairah (al-fujayrah);1905
+ras el khaimah;1906
+al-ain;1907
+ajman;1908
+hatta;1909
+cuenca;1910
+loja;1912
+banos;1913
+manta;1914
+l'ile santa cruz;1915
+rosslare;1916
+kilkenny;1917
+cashel;1918
+donegal;1919
+killarney;1920
+limerick;1921
+l'ile de kish;1922
+yazd;1923
+l'ile de qeshm;1924
+kachan;1925
+wroclaw;1926
+szczecin;1927
+auschwitz;1928
+lubin;1929
+przemysl;1930
+narvik;1931
+kristiansand;1932
+bodo;1933
+honningsvag;1934
+provins;1935
+fontainebleau;1936
+montmorency;1937
+cergy;1938
+shibin el kom;1939
+siwa;1940
+sodwana bay;1941
+richards bay;1942
+hermanus;1943
+nelspruit;1944
+knysna;1945
+long tom pas (col du long tom);1946
+besse-et-saint-anastaise;1947
+saint-nectaire;1948
+issoire;1949
+amboise;1950
+chinon;1951
+sancerre;1952
+loches;1953
+vierzon;1954
+odense;1956
+hiroshima;1957
+kobe;1958
+nagasaki;1959
+nagano-shi;1960
+nagoya;1961
+hakone;1962
+fukuoka;1964
+boulogne-sur-mer;1965
+berck;1966
+douai;1967
+cambrai;1968
+puno;1969
+le canyon de colca;1970
+huaraz;1971
+playa de las americas;1972
+puerto del carmen;1973
+maspalomas;1974
+puerto de la cruz;1975
+tupiza;1976
+rurrenabaque;1977
+tarija;1978
+oruro;1979
+bath;1980
+cambridge;1981
+newcastle;1982
+southampton;1983
+kota kinabalu;1984
+malacca;1985
+johor bahru;1986
+l'ile tioman;1987
+irkutsk;1988
+izhevsk;1989
+sebastopol;1990
+samara;1991
+kaliningrad;1993
+mourmansk (russie);1994
+khabarovsk;1995
+sosua;1996
+las terrenas;1997
+santiago de los caballeros;1998
+boca chica;1999
+l'ile saona;2000
+camaguey;2001
+cayo punta del canto;2002
+cienfuegos;2003
+cayo largo;2004
+moron;2005
+playa larga;2006
+san jose de las lajas;2007
+soroa;2008
+santa clara;2009
+cayo guillermo;2010
+mons;2011
+ypres;2012
+dinant;2013
+namur;2014
+da nang;2015
+dalat;2016
+mui ne;2018
+puerto montt;2019
+iquique;2020
+arica;2021
+l'ile de chiloe;2022
+kusadasi;2024
+ephese;2025
+alanya;2026
+marmaris;2027
+bursa;2028
+malatya;2029
+erzurum;2030
+gotland;2031
+lund;2032
+karlstad;2033
+lulea;2034
+interlaken;2035
+lucerne;2036
+zermatt;2037
+bale;2038
+l'ile de bohol;2039
+davao;2040
+baguio;2041
+tagaytay;2042
+el nido;2043
+coron;2045
+cagayan de oro;2046
+pula (istrie);2047
+rovinj;2048
+porec;2049
+l'ile de korcula;2050
+l'ile de hvar;2051
+san carlos de bariloche;2052
+rosario;2053
+chatellerault;2054
+rochefort;2055
+giverny;2056
+fecamp;2057
+veules-les-roses;2058
+cherbourg-octeville (cotentin);2059
+dusseldorf;2060
+dresde;2061
+baden-baden;2062
+aix-la-chapelle;2063
+stellenbosch;2064
+bejaia;2065
+annaba;2066
+tipaza;2067
+hallstatt;2068
+otztal;2069
+bregenz;2070
+chablis;2071
+victoria;2072
+banff (parc national);2073
+whistler;2074
+saint-jean de terre-neuve;2075
+les iles d'or (porquerolles, port-cros, levant);2076
+rethymnon;2077
+chania (la canee);2078
+ierapetra;2079
+agios nikolaos;2080
+gazi;2081
+l'ile de gavdos;2082
+sfakia;2083
+paleochora;2084
+porto santo;2085
+calheta;2086
+santa cruz (madere);2087
+santana (madere);2088
+porto moniz;2089
+shannon;2090
+gerone;2091
+l'ile de sein;2092
+l'ile-de-brehat;2093
+l'ile de molene;2094
+l'ile saint-honorat;2095
+l'ile-d'aix;2096
+l'ile sainte-marguerite;2097
+l'ile d'yeu;2098
+chausey  (archipel normand);2099
+l'ile de noirmoutier;2100
+fouras;2101
+le cap d'agde;2102
+le cap ferret;2103
+le croisic;2105
+compiegne;2106
+saint-quentin;2107
+udon thani;2108
+sitia;2109
+matala;2110
+schwechat;2111
+heredia;2112
+escazu;2113
+alajuela;2114
+blida;2115
+parnu;2116
+rawalpindi;2117
+elbasan;2118
+hamilton;2119
+tauranga;2120
+san pedro sula;2121
+la ceiba;2122
+devonport;2123
+bacolod;2124
+quezon city;2126
+bonn;2127
+leipzig;2128
+dortmund;2129
+khobar;2130
+lagos;2131
+marsa alam;2132
+kalamata;2133
+paros;2134
+dalaman;2135
+skyros;2136
+l'ile sainte-marie;2138
+toamasina (tamatave);2139
+mahajanga (majunga);2140
+manakara;2141
+monte mario;2142
+sao joao dos angolares;2143
+tatouine;2144
+tieret;2145
+el kef;2146
+dangriga;2147
+punta gorda;2148
+placencia;2149
+puerto jimenez;2150
+uvita;2151
+bilwi;2152
+matagalpa;2153
+siuna;2154
+el cuco;2155
+la libertad;2156
+usulutan;2157
+maracaibo;2158
+maturin;2159
+ciudad bolivar;2160
+rio gallegos;2161
+comodoro rivadavia;2162
+bahia blanca;2163
+elounda;2167
+gouves;2168
+le grau-du-roi;2169
+frontignan;2172
+marseillan;2173
+le barcares;2174
+carnon-plage;2175
+six-fours-les-plages;2176
+ramatuelle;2177
+la fos-sur-mer;2178
+la presqu'ile de quiberon;2179
+ouistreham;2180
+granville;2181
+calpe;2182
+estartit;2183
+tossa de mar;2184
+hossegor;2185
+wildwood;2186
+hampton beach;2187
+vinaros;2188
+niihau;2189
+kauai;2190
+molokai;2191
+lanai;2192
+kahoolawe;2193
+maui;2194
+l'ile d'hawai (big island);2195
+honolulu (oahu);2196
+ubud;2197
+kuta;2198
+denpasar;2209
+sanur;2210
+nusa dua;2211
+amed;2212
+lovina beach;2213
+jimbaran;2214
+legian;2215
+le mont agung;2216
+le mont batur;2217
+negara;2218
+gilimanuk;2219
+singaraja;2220
+canggu;2221
+padangbai;2222
+balian beach (tabanan);2223
+karangasem;2224
+bubunan;2225
+rangiroa (archipel des tuamotu);2226
+huahine (archipel de la societe);2227
+raiatea;2228
+tahaa;2229
+nuku hiva;2230
+tikehau (iles palliser);2231
+fakarava;2232
+maupiti (iles sous-le-vent);2233
+makatea;2234
+tetiaroa (iles du vent);2235
+rurutu;2236
+fatu hiva;2237
+ahe (iles du roi georges);2238
+manihi;2239
+raivavae;2240
+rimatara;2241
+ua huka;2242
+ua pou;2243
+teahupoo;2244
+moriani-plage;2245
+aleria;2246
+saint-florent;2247
+zonza;2248
+batticaloa;2249
+ella;2250
+neluwa;2251
+arugam bay;2252
+anuradhapura;2253
+puttalam;2254
+le parc national de wilpattu;2256
+le parc national d'uda walawe;2257
+le lac inle;2258
+naypyidaw (nay pyi taw);2259
+tachileik;2261
+kengtung;2262
+thandwe (sandoway);2263
+mrauk u;2264
+putao;2265
+pindaya;2266
+ngwesaung;2267
+pa-an (hpa-an);2268
+la napa valley;2269
+key west;2270
+le lac tahoe;2271
+le parc national de zion;2272
+le parc national de joshua tree;2273
+jackson hole;2274
+jacksonville;2275
+le vermont;2276
+gregolimano;2277
+zante;2278
+la chalcidique;2279
+cephalonie;2280
+jijoca de jericoacoara;2281
+uluru (ayers rock);2283
+les iles whitsunday;2284
+la grande barriere de corail;2285
+l'ile fraser (fraser island);2286
+l'ile d'hamilton;2287
+le parc national fitzgerald river ;2288
+le parc national cape arid;2289
+le parc national nullarbor;2290
+mackay;2291
+bamaga (peninsule du cap york);2292
+coral bay;2293
+le parc national prince regent;2294
+le parc national de purnululu;2295
+plumridge lakes;2296
+xiamen;2297
+le xinjiang (sin-kiang) ;2298
+yangshuo;2299
+le yunnan;2300
+le pic victoria;2301
+zhangjiajie;2302
+kachgar;2303
+delingha;2304
+jilin;2305
+harbin;2306
+yogyakarta;2307
+bandung;2308
+malang;2309
+surabaya;2310
+batam;2311
+surakarta;2312
+semarang;2313
+l'ile de komodo;2314
+makassar;2315
+les iles raja ampat;2316
+le lac toba;2317
+gili air;2318
+manado (menado);2319
+padang;2320
+zarzis;2321
+gangtok;2322
+haridwar;2323
+jaisalmer;2324
+le parc national jim corbett;2325
+kanyakumari;2326
+srinagar (jammu-et-cachemire);2327
+kasol;2328
+lansdowne;2329
+lonavla (lonavala);2330
+mount abu;2331
+nainital;2332
+nandi hills (nandi betta);2333
+udaipur;2334
+le parc national de la vallee des fleurs (uttrakhand);2335
+vaishno devi;2336
+auli;2337
+gokarna;2338
+hampi;2339
+kufri;2340
+ooty;2341
+visakhapatnam;2342
+puri;2343
+nagpur;2344
+pune;2345
+l'ile de redang;2346
+l'ile de rawa;2347
+jodhpur;2348
+le parc national du gunung mulu;2349
+le parc national de taman negara;2350
+george town;2351
+miri;2352
+kuantan;2353
+jeju island (jejudo);2354
+namiseom (nami island);2355
+chuncheon;2356
+l'ile de ulleungdo;2357
+daegu;2358
+tongyeong;2359
+namhae;2360
+yeosu;2361
+uljin;2362
+koh lipe;2363
+le parc national de khao yai;2364
+le parc national de khao sok;2365
+uttaradit;2366
+sakhon nakhon;2367
+mae sot;2368
+sukhothai;2369
+khon kaen;2370
+chanthaburi;2371
+burinam;2372
+les chutes victoria (zambie);2373
+le parc national de yangmingshan;2374
+taitung;2375
+hualien;2376
+yilan;2377
+lanyu;2378
+le parc national de taroko;2379
+jiaoxi;2380
+ puli (nantou);2382
+alishan national scenic area;2383
+sanyi;2384
+edmonton;2386
+fort mcmurray;2387
+regina;2388
+rankin inlet;2389
+salluit;2390
+blanc-sablon;2391
+riviere-saint-paul;2392
+sept-iles;2393
+labrador city;2394
+amalfi;2395
+l'ombrie;2396
+costa del sol;2397
+nara;2398
+kamakura;2399
+nikko;2400
+yokohama;2401
+kochi;2402
+kanazawa;2403
+izu;2404
+ishigaki-jima;2405
+shikoku;2406
+hakodate;2407
+karuizawa;2408
+yakushima;2409
+matsue;2410
+kitakyushu;2411
+kumamoto;2412
+aomori;2413
+niigata;2414
+cancale;2423
+saint-lunaire;2424
+saint-cast-le-guildo;2425
+pleneuf-val-andre;2426
+binic;2427
+saint-quay-portrieux;2428
+paimpol;2429
+louannec;2430
+tregastel;2431
+trebeurden;2432
+locquemeau;2433
+plougasnou;2434
+locquirec;2435
+roscoff;2436
+morlaix;2437
+plougastel-daoulas;2438
+camaret-sur-mer;2439
+plouhinec;2440
+loctudy;2441
+moelan-sur-mer;2442
+groix;2443
+auray;2444
+sarzeau;2445
+muzillac;2446
+saint-andre-des-eaux;2447
+redon;2448
+bain-de-bretagne;2449
+ploermel;2450
+pontivy;2451
+carhaix-plouguer;2452
+rostrenen;2453
+loudeac;2454
+vitre;2455
+chateaubourg;2456
+fougeres;2457
+dol-de-bretagne;2458
+combourg;2459
+dinan;2460
+lamballe;2461
+plerin;2462
+pordic;2463
+plougrescant;2464
+guingamp;2465
+lesneven;2466
+plouguerneau;2467
+ploudalmezeau;2468
+plouzane;2469
+plogoff;2470
+gourin;2471
+paimpont;2472
+guer;2473
+landerneau;2474
+chateaulin;2475
+crozon;2476
+plouescat;2477
+mur-de-bretagne;2478
+saint-meen-le-grand;2479
+la guerche-de-bretagne;2480
+janze;2481
+plouay;2482
+saldanha;2483
+vredendal;2484
+worcester;2485
+paarl;2486
+atlantis;2487
+mossel bay;2488
+plettenberg bay;2489
+jeffrey's bay;2490
+port alfred;2491
+east london;2492
+mthatha;2493
+middelburg;2494
+cradock;2495
+aliwal north;2496
+kokstad;2497
+port shepstone;2498
+harrismith;2499
+standerton;2500
+ermelo;2501
+pietersburg;2502
+louis trichardt;2503
+upington;2504
+welkom;2505
+mmabatho;2506
+modimolle;2507
+thohoyandou;2508
+butterworth;2509
+oudtshoorn;2510
+vryheid;2511
+potchefstroom;2512
+rustenburg;2513
+thabazimbi;2514
+phalaborwa;2515
+kathu;2516
+gjirokaster;2517
+bilisht;2518
+tepelene;2519
+fier;2520
+rubik;2521
+peshkopi;2522
+koplik;2523
+bajram curri;2524
+lushnje;2525
+tindouf;2526
+adrar;2527
+illizi;2528
+bechar;2529
+brezina;2530
+ouargla;2531
+mostaganem;2532
+dellys;2533
+jijel;2534
+skikda;2535
+el tarf;2536
+constantine;2537
+oum el bouaghi;2538
+mila;2539
+bouira;2540
+sidi-bel-abbes;2541
+tiaret;2542
+m'sila;2543
+batna;2544
+khenchela;2545
+laghouat;2546
+el-bayadh;2547
+el attaf;2548
+berrouaghia;2549
+greifswald;2550
+neubrandenbourg;2551
+waren;2552
+prenzlau;2553
+neustrelitz;2554
+guestrow;2555
+wismar;2556
+breme;2557
+fribourg-en-brisgau;2558
+sarrebruck;2559
+wurtzbourg;2560
+augsbourg;2561
+bielefeld;2562
+lubeck;2563
+kiel;2564
+bremerhaven;2565
+duisbourg;2566
+gottingen;2567
+erfurt;2568
+magdebourg;2569
+flensbourg;2570
+lorrach;2571
+potsdam;2572
+eberswalde;2573
+cuxhaven;2574
+emden;2575
+osnabruck;2576
+bocholt;2577
+saverne;2578
+bischwiller;2579
+saint-louis;2580
+cernay;2581
+guebwiller;2582
+lembach;2583
+soufflenheim;2584
+altkirch;2585
+munster;2586
+ingwiller;2587
+wissembourg;2588
+sant julia de loria;2589
+canillo;2590
+escaldes-engordany;2591
+portsmouth;2592
+hastings;2593
+eastbourne;2594
+brighton;2595
+worthing;2596
+bornemouth;2597
+exeter;2598
+colchester;2599
+peterborough;2600
+norwich;2601
+ipswich;2602
+nottingham;2603
+leicester;2604
+birmingham;2605
+swindon;2606
+bristol;2607
+grimsby;2608
+york;2609
+leeds;2610
+preston;2611
+blackpool;2612
+middlesbrough;2613
+darlington;2614
+southend-on-sea;2615
+maidstone;2616
+northampton;2617
+gloucester;2618
+chester;2619
+carlisle;2620
+lancaster;2621
+barrow in furness;2622
+shrewsbury;2623
+hereford;2624
+llanelli;2625
+buckley;2626
+barnstaple;2627
+aberystwyth;2628
+carmarthen;2629
+barry;2630
+porthcawl;2631
+merthyr tydfil;2632
+haverfordwest;2633
+newtown;2634
+llandudno;2635
+barmouth;2636
+llandrindod wells;2637
+fishguard;2638
+amlwch;2639
+ayr;2640
+greenock;2641
+hawick;2642
+dumfries;2643
+stranraer;2644
+elgin;2645
+fraserburgh;2646
+peterhead;2647
+arbroath;2648
+kilmarnock;2649
+stonehaven;2650
+inverurie;2651
+ballymena;2652
+coleraine;2653
+limavady;2654
+strabane;2655
+omagh;2656
+newry;2657
+banbridge;2658
+craigavon;2659
+dungannon;2660
+cookstown;2661
+bangor (region de strangford lough);2662
+antrim;2663
+carrickfergus;2664
+codrington;2665
+perigueux;2666
+marmande;2667
+mont-de-marsan;2668
+dax;2669
+tarnos;2670
+andernos-les-bains;2671
+la teste-de-buch;2672
+gujan-mestras;2673
+libourne;2674
+orthez;2675
+oloron-sainte-marie;2676
+villeneuve-sur-lot;2677
+soustons;2678
+parentis-en-born;2679
+biganos;2680
+pauillac;2681
+lesparre-medoc;2682
+blaye;2683
+coutras;2684
+nerac;2685
+casteljaloux;2686
+cambo-les-bains;2687
+saint-jean-pied-de-port;2688
+laruns;2689
+vielle-saint-girons;2690
+morcenx;2691
+bazas;2692
+le barp;2693
+lanton;2694
+audenge;2695
+le teich;2696
+hourtin;2697
+carcans;2698
+le porge;2699
+sanguinet;2700
+pontenx-les-forges;2701
+vieux-boucau-les-bains;2702
+boucau;2703
+saint-martin-de-seignanx;2704
+guethary;2705
+saint-pee-sur-nivelle;2706
+hasparren;2707
+salies-de-bearn;2708
+hagetmau;2709
+saint-sever;2710
+fumel;2711
+tonneins;2712
+la reole;2713
+montpon-menesterol;2714
+terrasson-lavilledieu;2715
+riberac;2716
+saint-estephe;2717
+tabuk;2718
+yanbu;2719
+rabigh;2720
+ar rass;2721
+al bahah;2722
+jizan;2723
+najran;2724
+khamis mushait;2725
+abha;2726
+al hufuf;2727
+abqaiq;2728
+dammam;2729
+sayhat;2730
+tarut;2731
+safwa;2732
+al jubayl;2733
+taef;2734
+rio grande;2735
+comandante luis piedra buena;2736
+rio turbio;2737
+caleta olivia;2738
+puerto madryn;2739
+rawson;2740
+san antonio oeste;2741
+viedma;2742
+punta alta;2743
+necochea;2744
+tres arroyos;2745
+villa gesell;2746
+azul;2747
+la plata;2748
+neuquen;2749
+san rafael;2750
+villa mercedes;2751
+san fernando del valle de catamarca;2752
+san miguel de tucuman;2753
+santiago del estero;2754
+tartagal;2755
+san salvador de jujuy;2756
+formosa;2757
+obera;2758
+corrientes;2759
+parana;2760
+esquel;2761
+barrancas;2762
+san clemente del tuyu;2763
+magdalena;2764
+quilmes;2765
+general pico;2766
+reconquista;2767
+concepcion del uruguay;2768
+concordia;2769
+ararat;2770
+vardenis;2771
+vaghashen;2772
+gavarr;2773
+armavir;2774
+idjevan;2775
+hrazdan;2776
+abovyan;2777
+ashtarak;2778
+etchmiadzin;2779
+dilidjan;2780
+amasia;2781
+aparan;2782
+azatamut;2783
+agarak;2784
+eghvard;2785
+wollongong;2786
+toowoomba;2787
+townsville;2788
+launceston;2789
+bendigo;2790
+ballarat;2791
+geelong;2792
+newcastle;2793
+albury;2794
+wagga wagga;2795
+tamworth;2796
+port macquarie;2797
+bundaberg;2798
+rockhampton;2799
+bunbury;2800
+mandurah;2801
+buderim (sunshine coast);2802
+gladstone;2803
+yeppoon;2804
+bowen;2805
+broome;2806
+port hedland;2807
+geraldton;2808
+kalgoorlie;2809
+albany;2810
+busselton;2811
+port lincoln;2812
+whyalla;2813
+port augusta;2814
+port pirie;2815
+warrnambool;2816
+mont gambier;2817
+batemans bay;2818
+manly;2819
+bondi;2820
+umina;2821
+bateau bay;2822
+mont isa;2823
+broken hill;2824
+mildura;2825
+forster;2826
+coffs harbour;2827
+ballina;2828
+merimbula;2829
+traralgon;2830
+byron bay;2831
+noosaville;2832
+tin can bay;2833
+hervey bay;2834
+innisfail;2835
+port douglas;2836
+trinity beach;2837
+cooktown;2838
+ile thursday;2839
+nhulunbuy;2840
+derby;2841
+margaret river;2842
+coober pedy;2843
+newman;2844
+katherine;2845
+roxby downs;2846
+cobar;2847
+hughenden;2848
+streaky bay;2849
+esperance;2850
+kingscote;2851
+currie;2852
+blackwater;2853
+merredin;2854
+tom price;2855
+wels;2856
+villach;2857
+dornbirn;2858
+sankt polten;2859
+kufstein;2860
+saalfelden am steinernen meer;2861
+spittal an der drau;2862
+lienz;2863
+wolfsberg;2864
+kapfenberg;2865
+leoben;2866
+ternitz;2867
+braunau am inn;2868
+amstetten;2869
+steyr;2870
+bischofshofen;2871
+hollabrunn;2872
+mistelbach;2873
+eisenstadt;2874
+feldkirch;2875
+schwaz;2876
+bludenz;2877
+telfs;2878
+knittelfeld;2879
+ried im innkreis;2880
+vocklabruck;2881
+gmunden;2882
+landeck;2883
+bad gastein;2884
+solden;2885
+tamsweg;2886
+friesach;2887
+freistadt;2888
+scharding;2889
+jennersdorf;2890
+horn;2891
+liezen;2892
+mittelberg;2893
+reutte;2894
+hermagor;2895
+leibnitz;2896
+gmund;2897
+retz;2898
+oberwart;2899
+thiers;2900
+cournon-d'auvergne;2901
+riom;2902
+saint-flour;2903
+brioude;2904
+ambert;2905
+saint-eloy-les-mines;2906
+gannat;2907
+saint-pourcain-sur-sioule;2908
+varennes-sur-allier;2909
+aurec-sur-loire;2910
+monistrol-sur-loire;2911
+saint-just-malmont;2912
+sainte-sigolene;2913
+yssingeaux;2914
+brives-charensac;2915
+mauriac;2916
+commentry;2917
+lurcy-levis;2918
+vallon-en-sully;2919
+lapalisse;2920
+courpiere;2921
+langeac;2922
+saugues;2923
+riom-es-montagnes;2924
+maurs;2925
+nakhitchevan;2926
+imishli;2927
+sabirabad;2928
+sumqayit;2929
+qusar;2930
+alice town;2931
+gianyar;2932
+tabanan;2933
+tanjung;2934
+bangli;2935
+badung;2936
+semarapura;2937
+banjar;2938
+sylhet;2939
+mymensingh;2940
+tangail;2941
+kushtia;2942
+rajshahi;2943
+nawabganj;2944
+comilla;2945
+khulna;2946
+narail;2947
+narayanganj;2948
+louvain;2949
+tournai;2950
+roulers;2951
+courtrai;2952
+mouscron;2953
+aalst;2954
+malines;2955
+saint-nicolas;2956
+termonde;2957
+la louviere;2958
+seraing;2959
+verviers;2960
+genk;2961
+beringen;2962
+hasselt;2963
+arlon;2964
+malmedy;2965
+eupen (parc naturel hautes fagnes-eifel);2966
+lommel;2967
+marche-en-famenne;2968
+coxyde;2969
+middelkerke;2970
+blankenberge;2971
+knokke-heist;2972
+couvin;2973
+virton;2974
+maaseik;2975
+turnhout;2976
+geel;2977
+eeklo;2978
+poperinge;2979
+geraardsbergen;2980
+peruwelz;2981
+orange walk;2982
+san ignacio;2983
+saint george;2984
+hrodna;2985
+navapolatsk;2986
+orsha;2987
+salihorsk;2988
+babruysk;2989
+zhlobin;2990
+svyetlahorsk;2991
+lida;2992
+kobryn;2993
+bykhaw;2994
+cherykaw;2995
+maladzyechna;2996
+achmiany;2997
+smarhon';2998
+syanno;2999
+shklow;3000
+dziarjynsk;3001
+horki;3002
+loikaw;3003
+camiri;3004
+cobija;3005
+riberalta;3006
+guayaramerin;3007
+trinidad;3008
+velika kladusa;3009
+cazin;3010
+prijedor;3011
+gradiska;3012
+doboj;3013
+gradacac;3014
+gracanica;3015
+bijeljina;3016
+konjic;3017
+livno;3018
+bugojno;3019
+visoko;3020
+kakanj;3021
+zavidovici;3022
+milici;3023
+drvar;3024
+jajce;3025
+teslic;3026
+siroki brijeg;3027
+capljina;3028
+ljubuski;3029
+banovici;3030
+prnjavor;3031
+srbac;3032
+zivinice;3033
+orasje;3034
+olovo;3035
+teocak;3036
+serowe;3037
+orapa;3038
+molepolole;3039
+sens;3040
+joigny;3041
+cosne-cours-sur-loire;3042
+autun;3043
+le creusot;3044
+montceau-les-mines;3045
+chalon-sur-saone;3046
+chatillon-sur-seine;3047
+montbard;3048
+semur-en-auxois;3049
+chateau-chinon;3050
+bourbon-lancy;3051
+cluny;3052
+chagny;3053
+la charite-sur-loire;3054
+tonnerre;3055
+champigny;3056
+decize;3057
+corbigny;3058
+avallon;3059
+clamecy;3060
+nuits-saint-georges;3061
+auxonne;3062
+sao luis;3063
+macapa;3064
+parnaiba;3065
+natal;3066
+maceio;3067
+aracaju;3068
+ilheus;3069
+porto seguro;3070
+vila velha;3071
+macae;3072
+campos dos goytacazes;3073
+caraguatatuba;3074
+guaruja;3075
+paranagua;3076
+joinville;3077
+criciuma;3078
+pelotas;3079
+foz do iguacu;3080
+maringa;3081
+toledo;3082
+presidente prudente;3083
+uberlandia;3084
+campo grande;3085
+rondonopolis;3086
+barreiras;3087
+sinop;3088
+ji parana;3089
+rio branco;3090
+boa vista (roraima);3091
+maraba;3092
+petrolina;3093
+teresina;3094
+linhares;3095
+cabo frio;3096
+araruama;3097
+angra dos reis;3098
+itaguai;3099
+uruguaiana;3100
+bage;3101
+passo fundo;3102
+dourados;3103
+corumba;3104
+goiania;3105
+sao jose do rio preto;3106
+campinas;3107
+lauro de freitas;3108
+ploemeur;3109
+quimperle;3110
+lanester;3111
+guilvinec;3112
+larmor-plage;3113
+saint-pol-de-leon;3114
+hede-bazouges;3115
+montauban-de-bretagne;3116
+questembert;3117
+la gacilly;3118
+baud;3119
+locmine;3120
+pleven;3121
+sliven;3122
+stara zagora;3123
+dobritch;3124
+banfora;3125
+kribi;3126
+buea;3127
+kumba;3128
+bafia;3129
+bafoussam;3130
+bamenda;3131
+tibati;3132
+saskatoon;3133
+kelowna;3134
+thunder bay;3135
+grand sudbury;3136
+kingston (ontario);3137
+trois-rivieres;3138
+saguenay (fjord);3139
+prince george;3140
+grande prairie;3141
+lethbridge;3142
+medicine hat;3143
+kamloops;3144
+red deer;3145
+timmins;3146
+sault-sainte-marie;3147
+rimouski;3148
+moncton;3149
+charlottetown;3150
+fredericton;3151
+saint-jean;3152
+sydney (nouvelle-ecosse);3153
+nanaimo;3154
+courtenay;3155
+terrace;3156
+prince rupert;3157
+campbell river;3158
+penticton;3159
+cranbrook;3160
+salmon arm;3161
+williams lake;3162
+quesnel;3163
+canmore;3164
+lloydminster;3165
+north battleford;3166
+thompson;3167
+brandon;3168
+swift current;3169
+fort st. john;3170
+gaspe (gaspesie);3171
+mont-laurier;3172
+matane;3173
+bathurst;3174
+north bay;3175
+orillia;3176
+owen sound;3177
+yorkton;3178
+cold lake;3179
+happy valley-goose bay;3180
+yarmouth;3181
+baie-comeau;3182
+val-d'or;3183
+chibougamau;3184
+marathon;3185
+red lake;3186
+dryden;3187
+flin flon;3188
+kugluktuk;3189
+gjoa haven;3190
+inuvik;3191
+dawson city;3192
+norman wells;3193
+fort nelson;3194
+iqaluit;3195
+clyde river;3196
+corner brook;3197
+miramichi;3198
+alma;3199
+riviere-du-loup;3200
+montmagny;3201
+baie-saint-paul;3202
+port-cartier;3203
+sainte-anne-des-monts;3204
+cidade velha;3205
+ribeira grande;3206
+dreux;3207
+montargis;3208
+chateaudun;3209
+vendome;3210
+saint-amand-montrond;3211
+issoudun;3212
+nogent-le-rotrou;3213
+gien;3214
+romorantin;3215
+le blanc (parc naturel de la brenne);3216
+salbris;3217
+montoire-sur-le-loir;3218
+bonneval;3219
+malesherbes;3220
+sully-sur-loire;3221
+epernon;3222
+saint-dizier;3223
+vitry-le-francois;3224
+romilly-sur-seine;3225
+sezanne;3226
+joinville;3227
+langres;3228
+sainte-menehould;3229
+fismes;3230
+rethel;3231
+vouziers;3232
+revin (parc naturel des ardennes);3233
+fumay;3234
+nouzonville;3235
+givet;3236
+bar-sur-aube;3237
+nogent-sur-seine;3238
+suippes;3239
+mourmelon-le-grand;3240
+chile chico;3241
+puerto aisen;3242
+calama;3243
+tocopilla;3244
+antofagasta;3245
+taltal;3246
+copiapo;3247
+la serena;3248
+ovalle;3249
+san felipe;3250
+quillota;3251
+san antonio;3252
+rancagua;3253
+rengo;3254
+chimbarongo;3255
+curico;3256
+constitucion;3257
+talca;3258
+linares;3259
+chillan;3260
+concepcion (chili);3261
+coronel;3262
+arauco;3263
+la laja;3264
+curanilahue;3265
+lautaro;3266
+temuco;3267
+carahue;3268
+villarrica;3269
+loncoche;3270
+valdivia;3271
+la union;3272
+osorno;3273
+puerto varas;3274
+calbuco;3275
+ancud;3276
+castro;3277
+chonchi;3278
+quellon;3279
+puente alto;3280
+melipilla;3281
+vina del mar;3282
+los andes;3283
+hacienda la calera;3284
+la ligua;3285
+quilpue;3286
+lampa;3287
+pissouri;3288
+chlorakas;3289
+kissonerga;3290
+pegeia;3291
+sotira;3292
+kolossi;3293
+ypsonas;3294
+kiti;3295
+dhromolaxia;3296
+dali;3297
+athienou;3298
+aradippou;3299
+famagouste;3300
+paralimni;3301
+ayia napa;3302
+pyla;3303
+kyrenia;3304
+maicao;3305
+riohacha;3306
+valledupar;3307
+sincelejo;3308
+monteria;3309
+caucasia;3310
+apartado;3311
+turbo;3312
+barrancabermeja;3313
+bucaramanga;3314
+cucuta;3315
+quibdo;3316
+duitama;3317
+sogamoso;3318
+yopal;3319
+tunja;3320
+villavicencio;3321
+fusagasuga;3322
+girardot city;3323
+cartago;3324
+tulua;3325
+buga;3326
+palmira;3327
+neiva;3328
+santander de quilichao;3329
+popayan;3330
+pitalito;3331
+pasto;3332
+ipiales;3333
+san jose del guaviare;3334
+curumani;3335
+inirida;3336
+tarapaca;3337
+buenaventura (parc national farallones);3338
+puerto colombia;3339
+shantou;3340
+meizhou;3341
+quanzhou;3342
+wenzhou;3343
+ningbo;3344
+zhoushan;3345
+huzhou;3346
+nantong;3347
+yancheng;3348
+linyi;3349
+yantai;3350
+weifang;3351
+tianjin;3352
+dalian;3353
+shenyang;3354
+mudanjiang;3355
+qiqihar;3356
+hailar;3357
+zhengzhou;3358
+shijiazhuang;3359
+chongqing;3360
+nanning;3361
+korla;3362
+hami;3363
+hedong;3364
+wuwei;3365
+ouani;3366
+moppo;3367
+suncheon;3368
+changwon;3369
+pohang;3370
+gumi;3371
+jeonju;3372
+gunsan;3373
+iksan;3374
+andong;3375
+seogwipo;3376
+gyeongsan-si;3377
+asan;3378
+cheonan;3379
+cheongju;3380
+osan;3381
+hwaseong-si;3382
+icheon-si;3383
+wonju;3384
+t'aebaek;3385
+sangju;3386
+koesan;3387
+gongju;3388
+nonsan;3389
+seosan;3390
+hongsung;3391
+miryang;3392
+yangsan;3393
+muan;3394
+nangen;3395
+naju;3396
+hwasun;3397
+kwangyang;3398
+anseong;3399
+yangju;3400
+goyang-si;3401
+ansan-si;3402
+yangp'yong;3403
+namyangju;3404
+cheongsong gun;3405
+yanggu;3406
+imsil;3407
+haenam;3408
+goseong;3409
+gaigeturi;3410
+oepo;3411
+jangan;3412
+cargese;3413
+sartene;3414
+sari-solenzara;3415
+ghisonaccia;3416
+linguizzetta;3417
+vescovato;3418
+furiani;3419
+calenzana;3420
+morosaglia;3421
+oletta;3422
+sarrola-carcopino;3423
+grosseto-prugna;3424
+pietrosella;3425
+ventiseri;3426
+san-martino-di-lota;3427
+brando;3428
+prunelli-di-fiumorbo;3429
+alata;3430
+afa;3431
+la cruz;3432
+canas;3433
+tilaran;3434
+belen;3435
+santa cruz;3436
+nicoya;3437
+samara;3438
+jaco;3439
+quesada;3440
+miramar;3441
+esparza;3442
+san isidro;3443
+san vito;3444
+guacimo;3445
+siquirres;3446
+parrita;3447
+tejar;3448
+desamparados;3449
+orotina;3450
+atenas;3451
+san ramon;3452
+naranjo;3453
+paraiso;3454
+guapiles;3455
+hojancha;3456
+man;3457
+daloa;3458
+abengourou;3459
+bingerville;3460
+adiake;3461
+anyama;3462
+kissamos;3463
+malia;3464
+neapoli;3465
+souda;3466
+cavtat;3467
+makarska;3468
+brela;3469
+omis;3470
+dugi rat;3471
+kamen;3472
+kastel gomilica;3473
+kastel kambelovac;3474
+sinj;3475
+sibenik;3476
+vodice;3477
+tribunj;3478
+pirovac;3479
+biograd na moru;3480
+knin;3481
+starigrad;3482
+popovaca;3483
+l'ile de rab;3484
+senj;3485
+novi vinodolski;3486
+punat;3487
+kraljevica;3488
+delnice;3489
+lovran;3490
+labin;3491
+fazana;3492
+vrsar;3493
+pazin;3494
+umag;3495
+buzet;3496
+otocac;3497
+karlovac;3498
+sisak;3499
+pozega;3500
+bjelovar;3501
+varazdin;3502
+virovitica;3503
+osijek;3504
+vukovar;3505
+vinkovci;3506
+slavonski brod;3507
+koprivnica;3508
+samobor;3509
+aalborg;3510
+arhus;3511
+esbjerg;3512
+naestved;3513
+herning;3514
+randers;3515
+silkeborg;3516
+vejle;3517
+kolding;3518
+roskilde;3519
+greve;3520
+charlottenlund;3521
+ballerup;3522
+horsens;3523
+skive;3524
+holstebro;3525
+kalundborg;3526
+sonderborg;3527
+svendborg;3528
+abenra;3529
+haderslev;3530
+nykobing falster;3531
+koge;3532
+ringsted;3533
+slagelse;3534
+korsor;3535
+ronne;3536
+hillerod;3537
+holbaek;3538
+dragor;3539
+nakskov;3540
+varde;3541
+thisted;3542
+hobro;3543
+hjorring;3544
+bronderslev;3545
+hvide sande;3546
+ringkobing;3547
+harboore;3548
+thyboron;3549
+lemvig;3550
+hanstholm;3551
+lokken;3552
+hirtshals;3553
+strandby;3554
+saeby;3555
+hals;3556
+norresundby;3557
+hadsund;3558
+ebeltoft;3559
+juelsminde;3560
+bogense;3561
+kerteminde;3562
+nyborg;3563
+rudkobing;3564
+marstal;3565
+aeroskobing;3566
+faaborg;3567
+assens;3568
+middelfart;3569
+nordborg;3570
+grasten;3571
+tonder;3572
+ribe;3573
+logstor;3574
+nykobing mors;3575
+fjerritslev;3576
+rodby;3577
+rodvig;3578
+praesto;3579
+skaelskor;3580
+nykobing sjaelland;3581
+hundested;3582
+frederiksvaerk;3583
+helsinge;3584
+nexo;3585
+stege;3586
+vordingborg;3587
+sakskobing;3588
+soro;3589
+gilleleje;3590
+hornbaek;3591
+liseleje;3592
+hellebaek;3593
+espergaerde;3594
+humlebaek;3595
+niva;3596
+horsholm;3597
+sherrebek;3598
+stenlose;3599
+farum;3600
+taastrup;3601
+wesley;3602
+castle bruce;3603
+mahaut;3604
+ellon;3605
+montrose;3606
+forfar;3607
+saint andrews;3608
+kirkcaldy;3609
+methil;3610
+musselburgh;3611
+dunfermline;3612
+perth (ecosse);3613
+livingston;3614
+coatbridge;3615
+cumbernauld;3616
+east kilbride;3617
+paisley;3618
+carnoustie;3619
+ardrossan;3620
+largs;3621
+dumbarton;3622
+helensburgh;3623
+gourock;3624
+irvine;3625
+newton mearns;3626
+troon;3627
+prestwick;3628
+galashiels;3629
+kirkwall;3630
+stornoway;3631
+ullapool;3632
+lerwick;3633
+fort william;3634
+campbeltown;3635
+rothesay;3636
+tarbert;3637
+dunoon;3638
+crieff;3639
+anstruther;3640
+burntisland;3641
+bo'ness;3642
+north berwick;3643
+cockenzie;3644
+prestonpans;3645
+dunbar;3646
+berwick-upon-tweed;3647
+wick;3648
+brora;3649
+lossiemouth;3650
+buckie;3651
+macduff;3652
+portlethen;3653
+inverbervie;3654
+monifieth;3655
+invergordon;3656
+portree;3657
+dingwall;3658
+nairn;3659
+forres;3660
+keith;3661
+stirling;3662
+blairgowrie;3663
+aviemore (parc national cairngorms);3664
+glenrothes;3665
+falkirk;3666
+girvan;3667
+portstewart;3668
+portrush;3669
+glenariff;3670
+donaghadee;3671
+millisle;3672
+ballywalter;3673
+portaferry;3674
+kircubbin;3675
+dundrum;3676
+newcastle;3677
+annalong;3678
+kilkeel;3679
+warrenpoint;3680
+castlerock;3681
+lisburn;3682
+newtownards;3683
+holywood;3684
+newtownabbey;3685
+portadown;3686
+castlereagh;3687
+dromore;3688
+ballymoney;3689
+maghera;3690
+magherafelt;3691
+ballyclare;3692
+alexandroupoli;3693
+orestiada;3694
+komotini;3695
+xanthi;3696
+kavala;3697
+drama;3698
+serres;3699
+kilkis;3700
+sarti;3701
+samothraki;3702
+ormylia;3703
+ormylia;3704
+epanomi;3705
+peraia;3706
+makrygialos;3707
+kalamaria;3708
+korinos;3709
+katerini;3710
+litochoro;3711
+skiathos;3712
+volos;3713
+agria;3714
+pteleos;3715
+lamia;3716
+nea artaki;3717
+eretrie;3718
+karystos;3719
+nea makri;3720
+rafina;3721
+vouliagmeni;3722
+lavrio;3723
+le piree;3724
+ampelakia;3725
+elefsina;3726
+nea peramos;3727
+megare;3728
+isthmia;3729
+loutraki;3730
+kiato;3731
+xylokastro;3732
+aigio;3733
+kirra;3734
+naupacte;3735
+kato achaia;3736
+spetses;3737
+kranidi;3738
+leonidio;3739
+astros;3740
+koroni;3741
+kyparissia;3742
+pyrgos;3743
+amaliada;3744
+preveza;3745
+vonitsa;3746
+amfilochia;3747
+poros;3748
+lixouri;3749
+ithaki;3750
+ios;3751
+skala;3752
+kalymnos;3753
+symi;3754
+marathokampos;3755
+andros;3756
+tinos;3757
+ermoupolis;3758
+ano syros;3759
+karpathos;3760
+mytilene;3761
+kalloni;3762
+mithymna;3763
+ioannina;3764
+veroia;3765
+trikala;3766
+agrinio;3767
+qina;3768
+sohag;3769
+tahta;3770
+mallawi;3771
+bani suwayf;3772
+fayoum;3773
+suez;3774
+idku;3775
+port-said;3776
+damanhur;3777
+mansourah;3778
+ismailia;3779
+banha;3780
+zagazig;3781
+abu kabir;3782
+al mahallah al kubra;3783
+disuq;3784
+bilqas;3785
+zifta;3786
+kafr ash shaykh;3787
+damiette;3788
+bani mazar;3789
+kousa;3790
+adh dhayd;3791
+dibba al-hisn;3792
+esmeraldas;3793
+tulcan;3794
+ibarra;3795
+puerto francisco de orellana;3796
+tena;3797
+quevedo;3798
+salinas;3799
+playas;3800
+machala;3801
+huaquillas;3802
+pinas;3803
+naranjal;3804
+santo domingo de los colorados;3805
+portoviejo;3806
+riobamba;3807
+san francisco de milagro;3808
+chone;3809
+babahoyo;3810
+latacunga;3811
+macas;3812
+la troncal;3813
+zamora;3814
+gualaceo;3815
+azogues;3816
+jipijapa;3817
+machachi;3818
+cayambe;3819
+otavalo;3820
+guaranda;3821
+montalvo;3822
+samborondon;3823
+sant antoni de portmany;3824
+santa eularia des riu;3825
+manacor;3826
+soller;3827
+pollenca;3828
+capdepera;3829
+alcudia;3830
+felanitx;3831
+santanyi;3832
+llucmajor;3833
+s'arenal;3834
+calvia;3835
+andratx;3836
+santa ponsa;3837
+marratxi;3838
+sa pobla;3839
+santa margalida;3840
+inca;3841
+es castell;3842
+alaior;3843
+mercadal;3844
+ferreries;3845
+es migjorn gran;3846
+porto cristo;3847
+can picafort;3848
+banyalbufar;3849
+peguera;3850
+ses salines;3851
+porreres;3852
+campos;3853
+algaida;3854
+esporles;3855
+frontera;3856
+garachico;3857
+puntallana;3858
+santa cruz de la palma;3859
+brena alta;3860
+brena baja;3861
+adeje;3862
+arona;3863
+san miguel de abona;3864
+granadilla de abona;3865
+san isidro (tenerife);3866
+los gigantes;3867
+santiago del teide;3868
+buenavista del norte;3869
+icod de los vinos;3870
+la guancha;3871
+los realejos;3872
+la orotava;3873
+santa ursula;3874
+la victoria de acentejo;3875
+la matanza de acentejo;3876
+tacoronte;3877
+tegueste;3878
+candelaria;3879
+guimar;3880
+san sebastian de la gomera;3881
+mogan;3882
+san bartolome de tirajana;3883
+santa lucia;3884
+aguimes;3885
+ingenio;3886
+carrizal;3887
+telde;3888
+valsequillo de gran canaria;3889
+santa brigida;3890
+las palmas de gran canaria;3891
+arucas;3892
+firgas;3893
+teror;3894
+guia;3895
+galdar;3896
+cruce de arinaga;3897
+agaete;3898
+puerto del rosario;3899
+corralejo;3900
+pajara;3901
+antigua (fuerteventura);3902
+tuineje;3903
+playa blanca;3904
+tinajo;3905
+yaiza;3906
+tias;3907
+san bartolome;3908
+arrecife;3909
+teguise;3910
+pampelune;3911
+saint-sebastien;3912
+la corogne;3913
+lugo;3914
+oviedo;3915
+leon;3916
+logrono;3917
+valladolid;3918
+orense;3919
+lerida;3920
+castellon de la plana;3921
+murcie;3922
+carthagene;3923
+lorca;3924
+jaen;3925
+badajoz;3926
+caceres;3927
+xeres;3928
+algesiras;3929
+san fernando (espagne);3930
+albacete;3931
+elx;3932
+reus;3933
+badalona;3934
+mataro;3935
+figueres;3936
+manresa;3937
+huesca;3938
+palencia;3939
+ponferrada;3940
+ferrol;3941
+aviles;3942
+torrelavega;3943
+cuenca;3944
+ciudad real;3945
+merida (espagne);3946
+motril;3947
+el ejido;3948
+gandie;3949
+sagonte;3950
+vilanova i la geltru;3951
+castelldefels;3952
+soria;3953
+narva;3954
+sillamae;3955
+kohtla-jarve;3956
+johvi;3957
+maardu;3958
+haapsalu;3959
+kuressaare;3960
+voru;3961
+valga;3962
+polva;3963
+elva;3964
+rapla;3965
+paide;3966
+tapa;3967
+kardla;3968
+marjamaa;3969
+vandra;3970
+mustvee;3971
+raepina;3972
+abja-paluoja;3973
+torva;3974
+turi;3975
+poltsamaa;3976
+jogeva;3977
+kivioli;3978
+kunda;3979
+loksa;3980
+rummu;3981
+haabneeme;3982
+viimsi;3983
+tabasalu;3984
+turba;3985
+kohila;3986
+parnu-jaagupi;3987
+koeru;3988
+voka;3989
+narva-joesuu;3990
+puhja;3991
+sindi;3992
+keila;3993
+vohma;3994
+vaike-maarja;3995
+kehra;3996
+cape coral;3997
+port saint lucie;3998
+west palm beach;3999
+savannah;4000
+des moines (iowa);4001
+kansas city;4002
+indianapolis;4003
+corpus christi;4004
+pittsburgh;4005
+ile de hilton-head;4006
+daytona beach;4007
+sarasota;4008
+biloxi;4009
+galveston;4010
+pacific grove/monterey;4011
+mckinleyville;4012
+coos bay;4013
+charleston;4014
+oulu;4015
+lahti;4016
+joensuu;4017
+vaasa;4018
+pori;4019
+kotka;4020
+mikkeli;4021
+porvoo;4022
+hameenlinna;4023
+kirkkonummi;4024
+ekenas;4025
+rauma;4026
+uusikaupunki;4027
+jakobstad;4028
+kokkola;4029
+raahe;4030
+haukipudas;4031
+tornio;4032
+kuusamo;4033
+kajaani;4034
+iisalmi;4035
+kuhmo;4036
+sotkamo;4037
+lieksa;4038
+siilinjarvi;4039
+nivala;4040
+ylivieska;4041
+seinajoki;4042
+forssa;4043
+salo;4044
+lohja;4045
+riihimaki;4046
+vantaa;4047
+kouvola;4048
+lappeenranta;4049
+imatra;4050
+joutseno;4051
+hamina;4052
+kemi;4053
+savonlinna;4054
+varkaus;4055
+jamsa;4056
+heinola;4057
+mantsala;4058
+naantali;4059
+pargas;4060
+keuruu;4061
+saarijaervi;4062
+alajarvi;4063
+kauhajoki;4064
+kankaanpaeae;4065
+ilomantsi;4066
+nurmes;4067
+hanko;4068
+inga;4069
+kristinestad;4070
+oravais;4071
+kalajoki;4072
+pyhaejoki;4073
+kuivaniemi;4074
+pello;4075
+ylitornio;4076
+pelkosenniemi;4077
+ivalo;4078
+muonio;4079
+kolari;4080
+taivalkoski;4081
+suomussalmi;4082
+pudasjarvi;4083
+kitee;4084
+dole;4085
+saint-vit;4086
+gray;4087
+baume-les-dames;4088
+valdahon;4089
+ornans;4090
+pont-de-roide-vermondans;4091
+lure;4092
+saint-loup-sur-semouse;4093
+fougerolles;4094
+lons-le-saunier;4095
+saint-claude;4096
+morez;4097
+champagnole;4098
+saint-amour;4099
+clairvaux-les-lacs;4100
+salins-les-bains;4101
+tavaux;4102
+giromagny;4103
+ronchamp;4104
+luxeuil-les-bains;4105
+jussey;4106
+orgelet;4107
+moirans-en-montagne;4108
+lavans-les-saint-claude;4109
+longchaumois;4110
+jougne;4111
+gamba;4112
+moanda;4113
+zugdidi;4114
+ts'khinvali;4115
+qvareli;4116
+wa;4117
+navrongo;4118
+bolgatanga;4119
+bawku;4120
+berekum;4121
+sunyani;4122
+mampong;4123
+nsawam;4124
+le moule;4125
+anse-bertrand;4126
+port-louis (guadeloupe);4127
+petit-canal;4128
+le gosier;4129
+petit-bourg;4130
+pointe-noire;4131
+bouillante;4132
+zacapa;4133
+jalapa;4134
+asuncion mita;4135
+jutiapa;4136
+puerto san jose;4137
+retalhuleu;4138
+mazatenango;4139
+quetzaltenango;4140
+amatitlan;4141
+mixco;4142
+chimaltenango;4143
+fraijanes;4144
+forecariah;4145
+boke;4146
+mamou;4147
+siguiri;4148
+lola;4149
+dabola;4150
+baie de hilo;4151
+papa'ikou;4152
+waikoloa;4153
+hawaiian ocean view;4154
+holualoa;4155
+kahului;4156
+wailuku;4157
+kihei;4158
+paia;4159
+hana;4160
+kaunakakai;4161
+ewa beach;4162
+kapolei;4163
+waianae;4164
+hale'iwa;4165
+waialua;4166
+la'ie;4167
+hau'ula;4168
+kailua;4169
+kaneohe;4170
+waimanalo;4171
+wahiawa;4172
+'aiea;4173
+pearl city;4174
+waipahu;4175
+schofield barracks;4176
+mililani town;4177
+lihue;4178
+koloa;4179
+kalaheo;4180
+waimea;4181
+kekaha;4182
+anahola;4183
+kilauea;4184
+pukalani;4185
+honoka'a;4186
+hawi;4187
+kapaau;4188
+pahala;4189
+captain cook;4190
+puerto cortez;4191
+tocoa;4192
+olanchito;4193
+santa rosa de copan;4194
+siguatepeque;4195
+comayagua;4196
+danli;4197
+el paraiso;4198
+nacaome;4199
+morazan;4200
+sula;4201
+pinalejo;4202
+el progreso;4203
+choloma;4204
+la lima;4205
+puerto lempira;4206
+szekesfehervar;4207
+kecskemet;4208
+nyiregyhaza;4209
+szombathely;4210
+zalaegerszeg;4211
+nagykanizsa;4212
+kaposvar;4213
+bekescsaba;4214
+hodmezovasarhely;4215
+eger;4216
+tatabanya;4217
+veszprem;4218
+siofok;4219
+balatonfured;4220
+keszthely;4221
+szekszard;4222
+kiskunhalas;4223
+balassagyarmat;4224
+salgotarjan;4225
+saint-louis;4226
+les avirons;4227
+entre-deux;4228
+le tampon;4229
+petite-ile;4230
+bras-panon;4231
+sainte-marie;4232
+sainte-suzanne;4233
+la possession;4234
+le port;4235
+albion;4236
+grande riviere noire;4237
+chemin grenier;4238
+quatre bornes;4239
+centre de flacq;4240
+goodlands;4241
+triolet;4242
+grande pointe aux piments;4243
+arsenal;4244
+moka;4245
+saint-denis (93);4246
+argenteuil;4247
+boulogne-billancourt;4248
+meaux;4249
+saint-germain-en-laye;4250
+mantes-la-jolie;4251
+creteil;4252
+corbeil-essonnes;4253
+mangalore;4254
+madurai;4255
+kanpur;4256
+lucknow;4257
+ludhiana;4258
+bhopal;4259
+ahmedabad;4260
+vadodara;4261
+rajkot;4262
+nashik;4263
+kozhikode;4264
+coimbatore;4265
+quilon;4266
+nellore;4267
+kakinada;4268
+thiruvananthapuram;4269
+ponnani;4270
+tellicherry;4271
+porbandar;4272
+jamnagar;4273
+cherthala;4274
+ramanathapuram;4275
+karaikal;4276
+ongole;4277
+brahmapur;4278
+balasore;4279
+ratnagiri;4280
+panaji;4281
+mapusa (mapuca);4282
+madgaon;4283
+karwar;4284
+kasaragod;4285
+varkala;4286
+nagercoil;4287
+gondelour;4288
+haldia;4289
+diamond harbour;4290
+tamluk;4291
+imphal;4292
+lunglei;4293
+agartala;4294
+dibrugarh;4295
+itanagar;4296
+guwahati;4297
+indore;4298
+veraval;4299
+bhavnagar;4300
+virar;4301
+palghar;4302
+dahanu;4303
+port blair;4304
+tirunelveli;4305
+sambalpur;4306
+banda aceh;4307
+padangsidempuan;4308
+dumai;4309
+pekanbaru;4310
+pariaman;4311
+bukittinggi;4312
+jambi;4313
+bengkulu;4314
+palembang;4315
+metro;4316
+serang;4317
+sukabumi;4318
+pamanukan;4319
+indramayu;4320
+cirebon;4321
+tegal;4322
+pekalongan;4323
+tasikmalaya;4324
+purwokerto;4325
+magelang;4326
+batang;4327
+klaten;4328
+madiun;4329
+kediri;4330
+blitar;4331
+probolinggo;4332
+situbondo;4333
+banyuwangi;4334
+jember;4335
+lumajang;4336
+kupang;4337
+kendari;4338
+singkawang;4339
+palangkaraya;4340
+banjarmasin;4341
+balikpapan;4342
+samarinda;4343
+bontang;4344
+tarakan;4345
+gorontalo;4346
+palu;4347
+ternate;4348
+jayapura;4349
+tanjungpinang;4350
+tebingtinggi;4351
+kisaran;4352
+pematangsiantar;4353
+mojokerto;4354
+sidoarjo;4355
+kudus;4356
+wonosobo;4357
+pemalang;4358
+bogor;4359
+bitung;4360
+salatiga;4361
+purwakarta;4362
+sumbawa besar;4363
+bima;4364
+tuban;4365
+amuntai;4366
+sampit;4367
+lhokseumawe;4368
+langsa;4369
+sibolga;4370
+sumenep;4371
+kefamenanu;4372
+mamuju;4373
+sigli;4374
+enrekang;4375
+bulukumba;4376
+lontar;4377
+batuampar;4378
+simpang;4379
+gunungsitoli (pulau nias);4380
+takengon;4381
+l'ile de flores (maumere);4382
+mataram;4383
+selong;4384
+taliwang;4385
+padasuka;4386
+parang;4387
+karangtengah;4388
+zahedan;4389
+kerman;4390
+rafsanjan;4391
+abadan;4392
+ahvaz;4393
+sabzevar;4394
+gorgan;4395
+ilam;4396
+kermanshah;4397
+hamadan;4398
+malayer;4399
+arak;4400
+shahreza;4401
+sanandaj;4402
+zanjan;4403
+qazvin;4404
+rasht;4405
+miandoab;4406
+khvoy;4407
+marand;4408
+karaj;4409
+shirvan;4410
+ravar;4411
+bandar-e ganaveh;4412
+jahrom;4413
+waterford;4414
+dun laoghaire;4415
+letterkenny;4416
+sligo;4417
+ballina;4418
+castlebar;4419
+dundalk;4420
+drogheda;4421
+balbriggan;4422
+greystones;4423
+wicklow;4424
+arklow;4425
+tralee;4426
+ennis;4427
+athlone;4428
+portlaoise;4429
+carlow;4430
+droichead nua;4431
+naas;4432
+tullamore;4433
+malahide;4434
+laytown;4435
+clonakilty;4436
+kinsale;4437
+crosshaven;4438
+cobh;4439
+youghal;4440
+dungarvan;4441
+bray;4442
+skerries;4443
+killybegs;4444
+buncrana;4445
+moville;4446
+ballybofey;4447
+ballyshannon;4448
+cavan;4449
+roscommon;4450
+navan;4451
+westport;4452
+oughterard;4453
+dingle;4454
+kenmare;4455
+skibbereen;4456
+mallow;4457
+listowel;4458
+tuam;4459
+longford;4460
+monaghan;4461
+ballinrobe;4462
+enniscorthy;4463
+newcastle west;4464
+killorglin;4465
+ballaghaderreen;4466
+egilsstadir;4467
+dalvik;4468
+borgarnes;4469
+akranes;4470
+mosfellsbaer;4471
+hveragerdi;4472
+vestmannaeyjar (iles vestmann);4473
+vogar;4474
+seltjarnarnes;4475
+kopavogur;4476
+netanya;4477
+ashdod;4478
+ashqelon;4479
+beer-sheva;4480
+rehovot;4481
+jaffa;4482
+bat yam;4483
+eilat;4484
+dimona;4485
+netivot;4486
+bet shemesh;4487
+ariel;4488
+beit shean;4489
+tiberiade;4490
+safed;4491
+karmi'el;4492
+nahariya;4493
+acre;4494
+tirat karmel (parc national karmel mountain);4495
+hadera;4496
+modiin ilit;4497
+qiryat gat;4498
+herzliya;4499
+yeroham;4500
+mitzpe ramon;4501
+kiryat-yam;4502
+shelomi;4503
+messine;4504
+reggio de calabre;4505
+tarente;4506
+barletta;4507
+andria;4508
+foggia;4509
+salerne;4510
+terni;4511
+perouse;4512
+forli;4513
+modene;4514
+parme;4515
+plaisance;4516
+padova;4517
+vicence;4518
+udine;4519
+brescia;4520
+bergame;4521
+monza;4522
+novare;4523
+sassari;4524
+livourne;4525
+ferrare;4526
+bolzano;4527
+mazara del vallo;4528
+marsala;4529
+crotone;4530
+catanzaro;4531
+pouzzoles;4532
+ercolano;4533
+caserte;4534
+anzio;4535
+lido di ostia;4536
+civitavecchia;4537
+viareggio;4538
+la spezia;4539
+massa;4540
+savone;4541
+manfredonia;4542
+san benedetto del tronto;4543
+pesaro;4544
+ancone;4545
+civitanova marche;4546
+ravenne;4547
+chioggia;4548
+potenza;4549
+matera;4550
+frosinone;4551
+grosseto;4552
+viterbe;4553
+ascoli piceno;4554
+asti;4555
+cuneo;4556
+trente;4557
+trevise;4558
+pordenone;4559
+biella;4560
+come;4561
+varese;4562
+carbonia;4563
+muravera;4564
+orosei;4565
+syracuse;4566
+gallipoli;4567
+termoli;4568
+black river;4569
+mandeville;4570
+may pen;4571
+old harbour;4572
+spanish town;4573
+runaway bay;4574
+port maria;4575
+morant bay;4576
+okayama;4577
+tokushima;4578
+takamatsu;4579
+shizuoka;4580
+hamamatsu;4581
+nagaoka;4582
+fuji (mont fuji);4583
+chiba;4584
+asahikawa;4585
+kitami;4586
+kushiro;4587
+obihiro;4588
+tomakomai;4589
+muroran;4590
+hachinohe;4591
+akita;4592
+ishinomaki;4593
+fukushima;4594
+iwaki;4595
+joetsu;4596
+morioka;4597
+sakata;4598
+maizuru;4599
+wakayama;4600
+ise;4601
+matsuyama;4602
+beppu/oita;4603
+miyakonojo;4604
+miyazaki;4605
+nobeoka;4606
+sasebo;4607
+ube;4608
+niihama;4609
+uwajima;4610
+nichinan;4611
+hamada;4612
+masuda;4613
+izumo;4614
+tamano;4615
+kure;4616
+hikari;4617
+fukui-shi;4618
+nanao;4619
+toyama;4620
+kofu;4621
+nakatsugawa;4622
+tateyama;4623
+hitachi-naka;4624
+kamaishi;4625
+noshiro;4626
+mutsu;4627
+abashiri;4628
+wakkanai;4629
+otaru;4630
+nago;4631
+saiki;4632
+kurayoshi;4633
+takayama;4634
+kitakami;4635
+hirosaki;4636
+miyako;4637
+asahi;4638
+kimitsu;4639
+shingu;4640
+shibushi bay;4641
+minamata;4642
+karatsu;4643
+maebashi;4644
+nemuro;4645
+ash shawbak;4646
+busayra;4647
+mafraq;4648
+zarka;4649
+sahab;4650
+oural;4651
+atyraou;4652
+aktioube;4653
+petropavl;4654
+esil;4655
+stepnogorsk;4656
+ekibastouz;4657
+pavlodar;4658
+semei;4659
+ridder;4660
+taldykourgan;4661
+taraz;4662
+chymkent;4663
+turkestan;4664
+kentaou;4665
+kyzylorda;4666
+mandera;4667
+garissa;4668
+kilifi;4669
+kitale;4670
+nyeri;4671
+thika;4672
+kericho;4673
+parc national du lac naivasha;4674
+chuka;4675
+murang'a;4676
+kisii;4677
+siaya;4678
+batken;4679
+kaindy;4680
+talas;4681
+tash-kumyr;4682
+balyktchy;4683
+kyzyl-suu;4684
+uzgen;4685
+saint-cyprien-plage;4686
+port-la-nouvelle;4687
+meze;4688
+aigues-mortes;4689
+castelnaudary;4690
+limoux;4691
+agde;4692
+mauguio;4693
+lunel;4694
+beaucaire;4695
+bagnols-sur-ceze;4696
+pont-saint-esprit;4697
+parc naturel regional du haut-languedoc;4698
+vic-la-gardiole;4699
+port-vendres;4700
+ceret;4701
+lezignan-corbieres;4702
+bedarieux;4703
+lodeve;4704
+sommieres;4705
+florac (parc national des cevennes);4706
+marvejols;4707
+uzes;4708
+rochefort-du-gard;4709
+aramon;4710
+fourques;4711
+pezenas;4712
+gignac;4713
+ille-sur-tet;4714
+vinca;4715
+osseja;4716
+teyateyaneng;4717
+zilupe;4718
+ludza;4719
+valka;4720
+valmiera;4721
+jaunpiebalga;4722
+madona;4723
+balvi;4724
+gulbene;4725
+limbazi;4726
+saulkrasti;4727
+carnikava;4728
+engure;4729
+talsi;4730
+kandava;4731
+saldus;4732
+skrunda;4733
+vainode;4734
+dobele;4735
+bauska;4736
+iecava;4737
+ilukste;4738
+aloja;4739
+koknese;4740
+aizkraukle;4741
+ogre;4742
+salaspils;4743
+tukums;4744
+olaine;4745
+sidon;4746
+halba;4747
+misratah;4748
+sabha;4749
+ussel;4750
+egletons;4751
+bellac;4752
+bessines-sur-gartempe;4753
+saint-junien;4754
+rochechouart;4755
+chalus (parc naturel regional perigord-limousin);4756
+saint-yrieix-la-perche;4757
+la souterraine;4758
+treignac (parc naturel de millevaches en limousin);4759
+saint-leonard-de-noblat;4760
+ambazac;4761
+chambon-sur-voueize;4762
+auzances;4763
+bourganeuf;4764
+eymoutiers;4765
+uzerche;4766
+lubersac;4767
+argentat;4768
+meymac;4769
+felletin;4770
+saint-laurent-sur-gorre;4771
+saint-germain-les-belles;4772
+chateauneuf-la-foret;4773
+le dorat;4774
+bonnat;4775
+mazeikiai;4776
+telsiai;4777
+joniskis;4778
+radviliskis;4779
+raseiniai;4780
+sakiai;4781
+kybartai;4782
+vilkaviskis;4783
+jonava;4784
+ukmerge;4785
+utena;4786
+visaginas;4787
+vievis;4788
+alytus;4789
+varena;4790
+kalvarija;4791
+zagare;4792
+linkuva;4793
+akmene;4794
+plateliai (parc national de zemaitija);4795
+rietavas;4796
+birstonas;4797
+veisiejai;4798
+daugai;4799
+bar-le-duc;4800
+toul;4801
+luneville;4802
+pont-a-mousson (parc naturel regional de lorraine);4803
+sarreguemines;4804
+saint-avold;4805
+amneville;4806
+sarrebourg;4807
+longwy;4808
+saint-die-des-vosges;4809
+forbach;4810
+hayange;4811
+creutzwald;4812
+bitche (parc naturel regional des vosges du nord);4813
+sarralbe;4814
+dieuze;4815
+saint-mihiel;4816
+ligny-en-barrois;4817
+neufchateau;4818
+contrexeville;4819
+la bresse;4820
+le thillot;4821
+remiremont;4822
+longuyon;4823
+mirecourt;4824
+commercy;4825
+bouzonville;4826
+mont-saint-martin;4827
+diekirch;4828
+echternach;4829
+dudelange;4830
+petange;4831
+differdange;4832
+weiswampach;4833
+hosingen;4834
+esch-sur-sure;4835
+junglinster;4836
+dalheim;4837
+hobscheid;4838
+debar;4839
+kitchevo;4840
+makedonski brod;4841
+prilep;4842
+koumanovo;4843
+kratovo;4844
+shtip;4845
+veles;4846
+kavadartsi;4847
+strumica;4848
+resen;4849
+struga;4850
+sambava;4851
+fianarantsoa;4852
+fort dauphin;4853
+arco da calheta;4854
+ponta do sol;4855
+ribeira brava;4856
+camara de lobos;4857
+canico;4858
+machico;4859
+sibu;4860
+bintulu;4861
+tawau;4862
+lahad datu;4863
+batu pahat;4864
+kluang;4865
+ipoh;4866
+taiping;4867
+kuala terengganu;4868
+sungai petani;4869
+wilayah persekutuan;4870
+keningau;4871
+pontian kechil;4872
+segamat;4873
+port dickson;4874
+sepang;4875
+banting;4876
+temerluh;4877
+raub;4878
+jitra;4879
+kangar;4880
+paka;4881
+pekan;4882
+tanah merah;4883
+sungai besar;4884
+kuala selangor;4885
+tanjung sepat;4886
+sungai udang;4887
+papar;4888
+teluk intan;4889
+bahau;4890
+gua musang;4891
+marsaskala;4892
+marsaxlokk;4893
+zabbar;4894
+san pawl il-bahar;4895
+swieqi;4896
+mellieha;4897
+zurrieq;4898
+siggiewi;4899
+zebbug;4900
+mgarr;4901
+ta' sannat;4902
+qormi;4903
+birkirkara;4904
+sidi ifni;4905
+mohammedia;4906
+bouznika;4907
+skhirate;4908
+kenitra;4909
+larache;4910
+al hoceima;4911
+taza;4912
+jerada;4913
+midelt;4914
+guelmim;4915
+khouribga;4916
+berrechid;4917
+khemisset;4918
+ksar el kebir;4919
+azrou;4920
+berkane;4921
+ouezzane;4922
+souq larb'a al gharb;4923
+sidi slimane;4924
+tiflet;4925
+oued zem;4926
+kasba tadla;4927
+sidi bennour;4928
+youssoufia;4929
+oulad teima;4930
+tiznit;4931
+sefrou;4932
+taounate;4933
+assilah;4934
+tarfaya;4935
+imlili;4936
+errachidia;4937
+chichaoua;4938
+demnate;4939
+azilal;4940
+tahla (parc national de tazekka);4941
+fort saint pierre;4942
+bourg de sainte marie;4943
+grande anse (le lorrain);4944
+bourg de la basse pointe;4945
+le robert;4946
+le francois;4947
+le vauclin;4948
+le marin;4949
+riviere-pilote;4950
+ducos;4951
+le gros-morne;4952
+saint-joseph;4953
+saint-esprit;4954
+koungou;4955
+tsingoni;4956
+dzaoudzi (petite-terre);4957
+sada;4958
+pamandzi;4959
+los mochis;4960
+tijuana;4961
+manzanillo;4962
+tapachula;4963
+ciudad del carmen;4964
+coatzacoalcos;4965
+veracruz;4966
+poza rica de hidalgo;4967
+tampico;4968
+reynosa;4969
+la paz (basse californie du sud);4970
+hermosillo;4971
+ciudad juarez;4972
+ciudad acuna;4973
+monclova;4974
+ciudad victoria;4975
+ciudad valles;4976
+tantoyuca;4977
+tulancingo;4978
+cordoba;4979
+villahermosa;4980
+san cristobal de las casas;4981
+chilpancingo;4982
+uruapan;4983
+colima;4984
+morelia;4985
+aguascalientes;4986
+tepic;4987
+zacatecas;4988
+fresnillo;4989
+ensenada;4990
+culiacan;4991
+campeche;4992
+chetumal;4993
+merida (yucatan);4994
+parral;4995
+nuevo laredo;4996
+saltillo;4997
+torreon;4998
+salina cruz;4999
+zihuatanejo;5000
+tecoman;5001
+san jose del cabo;5002
+heroica caborca;5003
+nuevo casas grandes;5004
+matehuala;5005
+isla mujeres;5006
+felipe carrillo puerto;5007
+oxkutzkab;5008
+frontera (reserve pantanos de centla);5009
+paraiso (tabasco);5010
+heroica alvarado;5011
+boca del rio;5012
+loreto;5013
+san felipe (basse californie);5014
+puerto penasco;5015
+huatabampo;5016
+coyuca de benitez;5017
+atoyac de alvarez;5018
+puerto escondido;5019
+san pedro pochutla;5020
+montemorelos;5021
+chelem;5022
+catemaco;5023
+anton lizardo;5024
+valle hermoso;5025
+rosarito;5026
+todos santos;5027
+san luis (valle de los cirios);5028
+tonala;5029
+matias romero;5030
+ciudad de huajuapan de leon;5031
+villa zempoala;5032
+ciudad sabinas;5033
+figeac;5034
+villefranche-de-rouergue;5035
+moissac;5036
+castelsarrasin;5037
+gaillac;5038
+graulhet;5039
+lavaur;5040
+mazamet;5041
+pamiers;5042
+saint-gaudens;5043
+carmaux;5044
+cauterets (parc national des pyrenees) ;5045
+bagneres-de-bigorre;5046
+bagneres-de-luchon;5047
+saint-girons;5048
+lavelanet;5049
+ax-les-thermes;5050
+labruguiere;5051
+brassac;5052
+espalion;5053
+decazeville;5054
+gourdon;5055
+cajarc;5056
+gramat;5057
+caussade;5058
+mirande;5059
+vic-en-bigorre;5060
+eauze;5061
+condom;5062
+lectoure;5063
+fleurance;5064
+lacaune;5065
+souillac;5066
+saint-cere;5067
+lauzerte;5068
+cordes-sur-ciel;5069
+requista;5070
+saint-affrique;5071
+severac-le-chateau;5072
+cazeres;5073
+lannemezan;5074
+argeles-gazost;5075
+tarascon-sur-ariege;5076
+muret;5077
+soroca;5078
+drochia;5079
+glodeni;5080
+ungheni;5081
+nisporeni;5082
+leova;5083
+cantemir;5084
+comrat;5085
+basarabeasca;5086
+stefan voda;5087
+taraclia;5088
+vulcanesti;5089
+mindresti;5090
+singerei;5091
+orhei;5092
+cocieri;5093
+anenii noi;5094
+chihertey;5095
+khovd;5096
+altai;5097
+suhbaatar;5098
+arvayheer;5099
+bayanhongor;5100
+choyr;5101
+saynshand;5102
+ulaan-uul;5103
+ovoot;5104
+javhlant;5105
+undurkhaan;5106
+baruun-urt;5107
+ider;5108
+danilovgrad;5109
+bijela;5110
+igalo;5111
+nampula;5112
+quelimane;5113
+chimoio;5114
+chibuto;5115
+ressano garcia;5116
+katima mulilo;5117
+rundu;5118
+oshakati;5119
+otjiwarongo;5120
+outjo;5121
+usakos;5122
+arandis;5123
+gobabis;5124
+okahandja;5125
+keetmanshoop;5126
+oranjemund;5127
+tsumeb;5128
+biratnagar;5129
+ilam;5130
+dhankuta;5131
+banepa;5132
+bharatpur;5133
+baglung;5134
+chinandega;5135
+chichigalpa;5136
+ocotal;5137
+esteli;5138
+jinotega;5139
+boaco;5140
+cuapa;5141
+nandaime;5142
+san marcos (masaya);5143
+gravelines;5144
+saint-amand-les-eaux (parc naturel regional scarpe-escaut);5145
+maubeuge;5146
+tourcoing;5147
+roubaix;5148
+villeneuve-d'ascq;5149
+vieux-conde;5150
+henin-beaumont;5151
+bethune;5152
+carvin;5153
+armentieres;5154
+hazebrouck;5155
+saint-omer;5156
+grand-fort-philippe;5157
+sangatte;5158
+ambleteuse;5159
+wimereux;5160
+equihen-plage;5161
+desvres;5162
+hesdin;5163
+saint-pol-sur-ternoise;5164
+fruges;5165
+vire;5166
+flers;5167
+argentan;5168
+bernay;5169
+lisieux;5170
+gisors;5171
+yvetot;5172
+bolbec;5173
+montivilliers;5174
+vernon;5175
+elbeuf;5176
+port-en-bessin-huppain;5177
+courseulles-sur-mer;5178
+houlgate;5179
+grandcamp-maisy;5180
+saint-vaast-la-hougue;5181
+flamanville;5182
+gouville-sur-mer;5183
+coutances;5184
+saint-pair-sur-mer;5185
+pontorson;5186
+saint-hilaire-du-harcouet;5187
+avranches;5188
+conde-sur-noireau;5189
+falaise;5190
+neufchatel-en-bray;5191
+le treport;5192
+saint-valery-en-caux;5193
+octeville-sur-mer;5194
+trouville-sur-mer;5195
+blonville-sur-mer;5196
+villers-sur-mer;5197
+luc-sur-mer;5198
+domfront;5199
+mortagne-au-perche;5200
+sees;5201
+verneuil-sur-avre;5202
+carentan;5203
+bricquebec;5204
+valognes;5205
+langrune-sur-mer;5206
+saint-aubin-sur-mer;5207
+bernieres-sur-mer;5208
+ver-sur-mer;5209
+pont-audemer;5210
+duclair;5211
+barentin;5212
+cauville-sur-mer;5213
+saint-jouin-bruneval;5214
+hautot-sur-mer;5215
+saint-martin-en-campagne;5216
+criel-sur-mer;5217
+gournay-en-bray;5218
+les andelys;5219
+gaillon;5220
+pacy-sur-eure;5221
+saint-sebastien-de-morsent;5222
+brionne;5223
+conches-en-ouche;5224
+urville-nacqueville;5225
+fermanville;5226
+portbail;5227
+montmartin-sur-mer;5228
+notre-dame-de-gravenchon;5229
+saint-romain-de-colbosc;5230
+alesund;5231
+haugesund;5232
+sandefjord;5233
+skien;5234
+fredrikstad;5235
+sarpsborg;5236
+drammen;5237
+sandnes;5238
+alta;5239
+harstad;5240
+mo i rana;5241
+steinkjer;5242
+kristiansund;5243
+molde;5244
+leirvik;5245
+mandal;5246
+arendal;5247
+halden;5248
+porsgrunn;5249
+larvik;5250
+tonsberg;5251
+horten;5252
+moss;5253
+kongsberg;5254
+lillehammer;5255
+gjovik;5256
+hamar;5257
+elverum;5258
+kongsvinger;5259
+honefoss;5260
+jessheim;5261
+lillestrom;5262
+drobak;5263
+kragero;5264
+risor;5265
+grimstad;5266
+lillesand;5267
+sogne;5268
+farsund;5269
+egersund;5270
+bryne;5271
+vigrestad;5272
+jorpeland;5273
+akrehamn;5274
+olen;5275
+odda;5276
+storebo;5277
+voss;5278
+hardbakke;5279
+forde;5280
+floro;5281
+volda;5282
+ulsteinvik;5283
+brattvag;5284
+aure;5285
+sistranda;5286
+brekstad;5287
+levanger;5288
+namsos;5289
+rorvik;5290
+bronnoysund;5291
+mosjoen;5292
+sandnessjoen;5293
+ornes;5294
+fauske;5295
+svolvaer;5296
+rost;5297
+andenes;5298
+hammerfest;5299
+vadso;5300
+lakselv;5301
+kautokeino;5302
+batsfjord;5303
+sortland;5304
+skjervoy;5305
+sunndalsora;5306
+notodden;5307
+seljord;5308
+geilo;5309
+otta;5310
+roros;5311
+meldal;5312
+flekkefjord;5313
+valle;5314
+fagernes;5315
+koppang;5316
+innbygda;5317
+maloy;5318
+nordfjordeid;5319
+steinsdalen;5320
+straume;5321
+stokmarknes;5322
+vardo;5323
+finnsnes;5324
+lyngseidet;5325
+storslett;5326
+bouloupari;5327
+dumbea;5328
+paita;5329
+mont-dore;5330
+gore;5331
+oamaru;5332
+timaru;5333
+ashburton;5334
+blenheim;5335
+whangarei;5336
+new plymouth;5337
+hastings;5338
+wanganui;5339
+palmerston north;5340
+porirua;5341
+gisborne;5342
+whakatane;5343
+lac taupo;5344
+hawera;5345
+tokoroa;5346
+masterton;5347
+paraparaumu;5348
+levin;5349
+coromandel;5350
+thames;5351
+waihi beach;5352
+whangamata;5353
+ruakaka;5354
+kerikeri;5355
+kaitaia;5356
+dargaville;5357
+raglan;5358
+wairoa;5359
+opunake;5360
+waitara;5361
+turangi;5362
+kawerau;5363
+waiuku;5364
+warkworth;5365
+picton;5366
+greymouth;5367
+kaikoura;5368
+wanaka;5369
+balclutha;5370
+te anau (fiordland);5371
+westport (nz);5372
+takaka;5373
+hyderabad (sind);5374
+mirpur khas;5375
+mingora;5376
+abbottabad;5377
+mardan;5378
+kohat;5379
+gujranwala;5380
+faisalabad;5381
+gujrat;5382
+sialkot;5383
+multan;5384
+sadiqabad;5385
+larkana;5386
+jacobabad;5387
+sukkur;5388
+nawabshah;5389
+sargodha;5390
+hafizabad;5391
+dera ghazi khan;5392
+bhakkar;5393
+skardu;5394
+okara;5395
+mianwali;5396
+miran shah;5397
+dolega district;5398
+david;5399
+chiriqui;5400
+buabidi;5401
+san francisco (panama);5402
+chitre;5403
+aguadulce;5404
+penonome;5405
+chame;5406
+colon;5407
+playon chico;5408
+mulatupo;5409
+arraijan;5410
+la chorrera;5411
+san miguelito;5412
+cocle;5413
+arawa;5414
+kimbe;5415
+vanimo;5416
+aitape;5417
+wewak;5418
+lorengau;5419
+ambunti;5420
+mendi;5421
+daru;5422
+wabag;5423
+kerema;5424
+popondetta;5425
+alotau;5426
+fuerte olimpo;5427
+santa rita;5428
+carapegua;5429
+san juan bautista;5430
+santa rosa;5431
+hohenau;5432
+ayolas;5433
+fontenay-le-comte;5434
+lucon;5435
+challans;5436
+chateaubriant;5437
+chateau-gontier;5438
+sable-sur-sarthe;5439
+la fleche;5440
+la ferte-bernard;5441
+les herbiers;5442
+saint-brevin-les-pins;5443
+pornichet;5444
+piriac-sur-mer;5445
+la turballe;5446
+batz-sur-mer;5447
+le pouliguen;5448
+la plaine-sur-mer;5449
+beauvoir-sur-mer;5450
+saint-hilaire-de-riez;5451
+bretignolles-sur-mer;5452
+longeville-sur-mer;5453
+chantonnay;5454
+pouzauges;5455
+doue-la-fontaine;5456
+mayenne;5457
+ernee;5458
+aizenay;5459
+machecoul;5460
+saint-philbert-de-grand-lieu;5461
+pontchateau;5462
+guemene-penfao;5463
+chateau-du-loir;5464
+les rosiers-sur-loire;5465
+chalonnes-sur-loire;5466
+ancenis;5467
+la bernerie-en-retz;5468
+leeuwarden;5469
+zwolle;5470
+alkmaar;5471
+enschede;5472
+apeldoorn;5473
+deventer;5474
+arnhem;5475
+nimegue;5476
+venlo;5477
+bois-le-duc;5478
+tilburg;5479
+breda;5480
+almere stad;5481
+amersfoort;5482
+dordrecht;5483
+emmen;5484
+drachten;5485
+heerenveen;5486
+assen;5487
+emmeloord;5488
+kampen;5489
+almelo;5490
+lelystad;5491
+medemblik;5492
+hoorn;5493
+doetinchem;5494
+ruremonde;5495
+bergen op zoom;5496
+hardenberg;5497
+enkhuizen;5498
+urk;5499
+delfzijl;5500
+harlingen;5501
+katwijk aan zee;5502
+sneek;5503
+meppel;5504
+goes;5505
+tacna;5506
+ilo;5507
+moquegua;5508
+abancay;5509
+ayacucho;5510
+huancavelica;5511
+huancayo;5512
+chincha alta;5513
+pisco;5514
+ica;5515
+huaral;5516
+huacho;5517
+cerro de pasco;5518
+huanuco;5519
+pucallpa;5520
+chimbote;5521
+trujillo;5522
+cajamarca;5523
+chiclayo;5524
+moyobamba;5525
+piura;5526
+talara;5527
+tumbes;5528
+tingo maria;5529
+chepen;5530
+chilca;5531
+bellavista;5532
+chachapoyas;5533
+casma;5534
+tarapoto;5535
+paita;5536
+sullana;5537
+laoag;5538
+vigan;5539
+bayombong;5540
+tarlac city;5541
+cabanatuan city;5542
+subic;5543
+mariveles;5544
+balanga;5545
+batangas;5546
+iriga city;5547
+masbate;5548
+calbayog city;5549
+catbalogan;5550
+roxas city;5551
+iloilo (ile de panay);5552
+tagbilaran city;5553
+butuan;5554
+ozamiz city;5555
+marawi city;5556
+iligan city;5557
+general santos;5558
+digos;5559
+kidapawan;5560
+dumaguete;5561
+calamba;5562
+titay;5563
+tandag;5564
+oroquieta;5565
+cabadbaran;5566
+panabo;5567
+bayawan;5568
+naga;5569
+cogan;5570
+nasugbu;5571
+morong;5572
+alaminos;5573
+candon;5574
+sibulan;5575
+malabon;5576
+dugcal;5577
+mogpog;5578
+bagong sikat;5579
+batasan;5580
+taft;5581
+tacloban;5582
+dinagat;5583
+escalante;5584
+tanjay;5585
+balas;5586
+bangkal;5587
+awang;5588
+koronadal;5589
+binuangan;5590
+cabadiangan;5591
+cabangahan;5592
+abucayan;5593
+balagtas;5594
+bancal;5595
+anilao;5596
+pili;5597
+bagacay;5598
+banugao;5599
+binangonan;5600
+lumbang;5601
+cavite city;5602
+rodriguez;5603
+malolos;5604
+aringay;5605
+santo tomas;5606
+dagupan;5607
+aglayan;5608
+kitaotao;5609
+numancia;5610
+consolacion;5611
+rosario/pansol beach;5612
+antipolo (aurora national park);5613
+camiling;5614
+san fernando (ilocos);5615
+manticao;5616
+albert;5617
+hirson;5618
+tergnier;5619
+chauny;5620
+noyon;5621
+villers-cotterets;5622
+crepy-en-valois;5623
+nogent-sur-oise;5624
+creil;5625
+meru;5626
+chateau-thierry;5627
+mers-les-bains;5628
+ault;5629
+cayeux-sur-mer;5630
+le crotoy;5631
+friville-escarbotin;5632
+doullens;5633
+peronne;5634
+saint-just-en-chaussee;5635
+montdidier;5636
+guise;5637
+pont-sainte-maxence;5638
+grandvilliers;5639
+flixecourt;5640
+nieul-sur-mer;5641
+angoulins;5642
+chatelaillon-plage;5643
+port-des-barques;5644
+marennes;5645
+la tremblade;5646
+saint-palais-sur-mer;5647
+vaux-sur-mer;5648
+saint-georges-de-didonne;5649
+meschers-sur-gironde;5650
+mortagne-sur-gironde;5651
+bressuire;5652
+thouars;5653
+parthenay;5654
+saintes (charente-maritime);5655
+jonzac;5656
+barbezieux-saint-hilaire;5657
+pons;5658
+saujon;5659
+surgeres;5660
+rouillac;5661
+jarnac;5662
+chauray;5663
+montmorillon;5664
+chauvigny;5665
+cerizay;5666
+loudun;5667
+saint-jean-d'angely;5668
+ars-en-re;5669
+sainte-marie-de-re;5670
+saint-martin-de-re;5671
+saint-denis-d'oleron;5672
+saint-trojan-les-bains;5673
+tonnay-charente;5674
+confolens;5675
+civray;5676
+chef-boutonne;5677
+montendre;5678
+abzac;5679
+saint-aigulin;5680
+pamproux;5681
+saint-hilaire-la-palud;5682
+esnandes;5683
+olsztyn;5684
+elblag;5685
+gdynia;5686
+bydgoszcz;5687
+gorzow wielkopolski;5688
+zielona gora;5689
+kalisz;5690
+lodz;5691
+radom;5692
+lublin;5693
+rzeszow;5694
+tarnow;5695
+opole;5696
+katowice;5697
+bielsko-biala;5698
+rybnik;5699
+siedlce;5700
+pila;5701
+stargard;5702
+gniezno;5703
+konin;5704
+stalowa wola;5705
+tarnobrzeg;5706
+mielec;5707
+debica;5708
+zawiercie;5709
+raciborz;5710
+kedzierzyn-kozle;5711
+nysa;5712
+jelenia gora;5713
+nowa sol;5714
+ciechanow;5715
+krosno;5716
+ustka;5717
+braniewo;5718
+trzebiatow;5719
+wolin;5720
+puck;5721
+mielno;5722
+miedzyzdroje;5723
+leba;5724
+hel;5725
+krynica morska;5726
+sztutowo;5727
+hajnowka;5728
+chojnice;5729
+ostroda;5730
+taunoa;5731
+paea;5732
+punaauia;5733
+faaa;5734
+aguadilla;5735
+isabela;5736
+manati;5737
+dorado;5738
+carolina;5739
+fajardo;5740
+humacao;5741
+guayama;5742
+yauco;5743
+cabo rojo;5744
+hormigueros;5745
+san german;5746
+san sebastian;5747
+coamo;5748
+cayey;5749
+vega alta;5750
+santa isabel;5751
+arroyo;5752
+maunabo;5753
+punta santiago;5754
+ceiba;5755
+luquillo;5756
+quebradillas;5757
+rincon;5758
+hatillo;5759
+boqueron;5760
+guanica;5761
+utuado;5762
+florida;5763
+adjuntas;5764
+comerio;5765
+cidra;5766
+aibonito;5767
+salinas;5768
+anasco;5769
+evora;5770
+monsanto;5771
+leiria;5772
+coimbra;5773
+aveiro;5774
+guimaraes;5775
+braga;5776
+ponte de lima;5777
+setubal;5778
+sesimbra;5779
+portimao;5780
+quarteira;5781
+olhao;5782
+laranjeiro;5783
+tavira;5784
+vila real de santo antonio;5785
+grandola;5786
+montijo;5787
+estoril;5788
+torres vedras;5789
+santarem;5790
+peniche;5791
+caldas da rainha;5792
+portalegre;5793
+castelo branco;5794
+figueira da foz;5795
+marinha grande;5796
+gafanha da nazare;5797
+ovar;5798
+esmoriz;5799
+leca da palmeira;5800
+canidelo;5801
+vila do conde;5802
+povoa de varzim;5803
+pedroso;5804
+esposende;5805
+moncao;5806
+vila real;5807
+bragance;5808
+mirandela;5809
+viseu;5810
+guarda;5811
+covilha;5812
+tomar;5813
+ponte de sor;5814
+vale da amoreira;5815
+montemor-o-novo;5816
+vendas novas;5817
+beja;5818
+pombal;5819
+lousa;5820
+lamego;5821
+chaves;5822
+arcozelo;5823
+sao joao da madeira;5824
+carvoeiro;5825
+sagres;5826
+vila do bispo;5827
+aljezur;5828
+sao teotonio;5829
+vila nova de milfontes;5830
+porto covo;5831
+ericeira;5832
+lourinha;5833
+sao martinho do porto;5834
+nazare;5835
+espinho;5836
+lavra;5837
+vila praia de ancora;5838
+mertola;5839
+almodovar;5840
+aljustrel;5841
+arraiolos;5842
+estremoz;5843
+elvas;5844
+campo maior;5845
+fundao;5846
+seia;5847
+serta;5848
+luz;5849
+monte gordo;5850
+salon-de-provence;5851
+grasse;5852
+cagnes-sur-mer;5853
+la seyne-sur-mer;5854
+aubagne;5855
+martigues;5856
+istres;5857
+briancon;5858
+digne-les-bains;5859
+valreas;5860
+bollene;5861
+carpentras;5862
+manosque;5863
+apt (parc naturel regional du luberon);5864
+pertuis;5865
+draguignan;5866
+brignoles;5867
+saint-maximin-la-sainte-baume;5868
+roquebrune-sur-argens;5869
+mandelieu;5870
+vallauris;5871
+saint-laurent-du-var;5872
+carros;5873
+vence;5874
+roquebrune-cap-martin;5875
+saint-remy-de-provence;5876
+tarascon;5877
+cavaillon;5878
+port-de-bouc;5879
+marignane;5880
+saint-cyr-sur-mer;5881
+le pradet;5882
+gardanne;5883
+miramas;5884
+saint-martin-de-crau;5885
+guillestre;5886
+embrun;5887
+veynes;5888
+sisteron;5889
+castellane;5890
+vaison-la-romaine;5891
+laragne-monteglin;5892
+carry-le-rouet;5893
+port-saint-louis-du-rhone;5894
+vitrolles;5895
+saint-mandrier-sur-mer;5896
+saint-jean-cap-ferrat;5897
+villefranche-sur-mer;5898
+beaulieu-sur-mer;5899
+cap-d'ail;5900
+contes;5901
+oraison;5902
+forcalquier;5903
+sorgues;5904
+piolenc;5905
+l'isle-sur-la-sorgue;5906
+allauch;5907
+lambesc;5908
+pernes-les-fontaines;5909
+pedernales;5910
+bani;5911
+san jose de ocoa;5912
+san pedro de macoris;5913
+san cristobal;5914
+higuey;5915
+san francisco de macoris;5916
+sabaneta;5917
+villa bisono;5918
+moca;5919
+concepcion de la vega;5920
+jarabacoa;5921
+constanza;5922
+bonao;5923
+cotui;5924
+salcedo;5925
+jimani;5926
+bajos de haina;5927
+guaymate;5928
+arenoso;5929
+cabarete;5930
+luperon;5931
+altamira;5932
+tenares;5933
+usti nad labem;5934
+pilsen;5935
+hradec kralove;5936
+liberec;5937
+mlada boleslav;5938
+jihlava;5939
+zlin;5940
+chomutov;5941
+most;5942
+teplice;5943
+kladno;5944
+karvina;5945
+frydek-mistek;5946
+opava;5947
+pardubice;5948
+tabor;5949
+strakonice;5950
+klatovy;5951
+blansko;5952
+znojmo;5953
+hodonin;5954
+roznov pod radhostem;5955
+sumperk;5956
+krnov;5957
+usti nad orlici;5958
+litomysl;5959
+egra;5960
+rokycany;5961
+vyskov;5962
+jesenik;5963
+nachod;5964
+kolin;5965
+brandys nad labem-stara boleslav;5966
+slany;5967
+beroun;5968
+benesov;5969
+tachov;5970
+domazlice;5971
+hlinsko;5972
+varnsdorf;5973
+dvur kralove nad labem;5974
+trutnov;5975
+vrchlabi;5976
+valence;5977
+aubenas;5978
+pierrelatte;5979
+romans-sur-isere;5980
+tournon-sur-rhone;5981
+montbrison;5982
+villefranche-sur-saone;5983
+amberieu-en-bugey;5984
+bellegarde-sur-valserine;5985
+oyonnax;5986
+albertville;5987
+sallanches;5988
+cluses;5989
+bonneville;5990
+la roche-sur-foron;5991
+passy;5992
+annemasse;5993
+saint-julien-en-genevois;5994
+rumilly;5995
+voiron;5996
+bourgoin;5997
+vienne;5998
+givors;5999
+rive-de-gier;6000
+saint-chamond;6001
+firminy;6002
+tarare;6003
+vals-les-bains;6004
+privas;6005
+nyons;6006
+modane;6007
+saint-jean-de-maurienne;6008
+bourg-saint-maurice;6009
+val-d'isere;6010
+megeve;6011
+saint-gervais-les-bains;6012
+hauteville-lompnes;6013
+villars-les-dombes;6014
+chatillon-sur-chalaronne;6015
+la cote-saint-andre;6016
+baia mare;6017
+suceava;6018
+tulcea;6019
+arad;6020
+drobeta turnu-severin;6021
+targu jiu;6022
+ramnicu valcea;6023
+craiova;6024
+alexandria;6025
+giurgiu;6026
+tecuci;6027
+barlad;6028
+vaslui;6029
+pascani;6030
+roman;6031
+sfantu-gheorghe (transylvanie);6032
+miercurea-ciuc;6033
+turda;6034
+alba iulia;6035
+deva;6036
+hunedoara;6037
+lugoj;6038
+campina;6039
+mangalia;6040
+navodari;6041
+sulina;6042
+sfantu gheorghe (delta du danube);6043
+costinesti;6044
+eforie sud;6045
+ovidiu;6046
+vatra dornei;6047
+petropavlovsk-kamtchatski;6048
+magadan;6049
+ioujno-sakhalinsk;6050
+komsomolsk-sur-l'amour;6051
+tchita;6052
+ulan-ude;6053
+ust'-ilimsk;6054
+bratsk;6055
+kansk;6056
+krasnoiarsk;6057
+atchinsk;6058
+abakan;6059
+kyzyl;6060
+roubtsovsk;6061
+tomsk;6062
+kemerovo;6063
+novokouznetsk;6064
+biysk;6065
+barnaoul;6066
+nijnevartovsk;6067
+nefteyugansk;6068
+noyabrsk;6069
+oukhta;6070
+syktyvkar;6071
+severodvinsk;6072
+petrozavodsk;6073
+pskov;6074
+velikiye luki;6075
+smolensk;6076
+voronej;6077
+saratov;6078
+nijni novgorod;6079
+kazan;6080
+perm;6081
+oufa;6082
+orenbourg;6083
+tcheliabinsk;6084
+tioumen;6085
+iekaterinbourg;6086
+derbent;6087
+makhatchkala;6088
+astrakhan;6089
+novorossiysk;6090
+krasnodar;6091
+belgorod;6092
+volgodonsk;6093
+rybinsk;6094
+serov;6095
+tobol'sk;6096
+berezniki;6097
+kirov;6098
+vologda;6099
+tcherepovets;6100
+neryungri;6101
+vorkouta;6102
+nadym;6103
+oussinsk;6104
+petchora;6105
+apatity;6106
+izberbash;6107
+touapse;6108
+guelendjik;6109
+anapa;6110
+ieisk;6111
+taganrog;6112
+azov;6113
+sosnovyy bor;6114
+vyborg;6115
+petrodvorets;6116
+anadyr;6117
+yagodnoye;6118
+severo-kuril'sk;6119
+okha;6120
+poronaysk;6121
+sovetskaya gavan';6122
+nahodka;6123
+aykhal;6124
+doudinka;6125
+bodaybo;6126
+borzya;6127
+igarka;6128
+kamenka;6129
+lessossibirsk;6130
+kolpashevo;6131
+karassouk;6132
+elista;6133
+suvorovskaya;6134
+praslin bay (sainte lucie);6135
+san francisco gotera;6136
+intipuca;6137
+zacatecoluca;6138
+chalatenango;6139
+san francisco menendez;6140
+ahuachapan;6141
+sonsonate;6142
+ciudad arce;6143
+suchitoto;6144
+cojutepeque;6145
+san vicente;6146
+santiago nonualco;6148
+jiquilisco;6149
+chinameca;6150
+el transito;6151
+ilopango;6152
+izalco;6153
+atiquizaya;6154
+concepcion de ataco;6155
+mejicanos;6156
+santa tecla;6157
+apopa;6158
+sokone;6160
+louga;6161
+koungheul;6162
+kedougou;6163
+sombor;6164
+zrenjanin;6165
+valjevo;6166
+uzice;6167
+smederevo;6168
+pozarevac;6169
+zajecar;6170
+kraljevo;6171
+krusevac;6172
+novi pazar;6173
+leskovac;6174
+pirot;6175
+apatin;6176
+backa topola;6177
+senta;6178
+vrbas;6179
+becej;6180
+backa palanka;6181
+vrsac;6182
+ruma;6183
+obrenovac;6184
+lazarevac;6185
+arangelovac;6186
+majdanpek;6187
+bor;6188
+jagodina;6189
+gornji milanovac;6190
+prokuplje;6191
+sremska mitrovica;6192
+mokrin;6193
+basaid;6194
+ilandza;6195
+kovacica;6196
+novi banovci;6197
+takamaka;6198
+trnava;6199
+nitra;6200
+povazska bystrica;6201
+prievidza;6202
+martin;6203
+presov;6204
+michalovce;6205
+banska bystrica;6206
+bardejov;6207
+humenne;6208
+snina;6209
+spisska nova ves;6210
+rimavska sobota;6211
+liptovsky mikulas;6212
+ruzomberok;6213
+levice;6214
+nove zamky;6215
+malacky;6216
+dunajska streda;6217
+skalica;6218
+brezno;6219
+trebisov;6220
+velky krtis;6221
+partizanske;6222
+sturovo;6223
+revuca;6224
+nova gorica;6225
+kranj;6226
+kamnik;6227
+velenje;6228
+trbovlje;6229
+celje;6230
+novo mesto;6231
+ptuj;6232
+murska sobota;6233
+ilirska bistrica;6234
+brezice;6235
+sezana;6236
+idrija;6237
+logatec;6238
+postojna;6239
+sevnica;6240
+prevalje;6241
+slovenske konjice;6242
+rogaska slatina;6243
+ribnica;6244
+tolmin;6245
+osilnica;6246
+lendava;6247
+kuzma;6248
+radlje ob dravi;6249
+litija;6250
+matara;6251
+weligama;6252
+hatton;6253
+kurunegala;6254
+kuliyapitiya;6255
+panadura;6256
+dehiwala-mount lavinia;6257
+gampola;6258
+helsingborg;6259
+jonkoping;6260
+uppsala;6261
+vasteras;6262
+orebro;6263
+linkoping;6264
+umea;6265
+gavle;6266
+borlange;6267
+vaxjo;6268
+halmstad;6269
+trollhattan;6270
+boras;6271
+gallivare;6272
+pitea;6273
+skelleftea;6274
+ornskoldsvik;6275
+harnosand;6276
+hudiksvall;6277
+soderhamn;6278
+mora;6279
+norrtalje;6280
+nykoping;6281
+vastervik;6282
+visby;6283
+oskarshamn;6284
+kalmar;6285
+karlskrona;6286
+karlshamn;6287
+ystad;6288
+trelleborg;6289
+angelholm;6290
+falkenberg;6291
+varberg;6292
+kungsbacka;6293
+kungalv;6294
+lidkoping;6295
+mariestad;6296
+kristinehamn;6297
+motala;6298
+ludvika;6299
+varnamo;6300
+vetlanda;6301
+arvika;6302
+sandviken;6303
+boden;6304
+kalix;6305
+haparanda;6306
+arvidsjaur;6307
+storuman;6308
+lycksele;6309
+robertsfors;6310
+holmsund;6311
+dorotea;6312
+stroemsund;6313
+jarpen;6314
+kramfors;6315
+ljusdal;6316
+edsbyn;6317
+oesthammar;6318
+bjorko;6319
+stavsnas;6320
+vaxholm;6321
+sollentuna;6322
+dalaro;6323
+nynashamn;6324
+trosa;6325
+oxelosund;6326
+borgholm;6327
+moensteras;6328
+sodra sandby;6329
+bergkvara;6330
+solvesborg;6331
+kristianstad;6332
+simrishamn;6333
+skanor med falsterbo;6334
+landskrona;6335
+hoganas;6336
+hono;6337
+styrso (lilla ravholmen);6338
+lysekil;6339
+stroemstad;6340
+amal;6341
+torsby;6342
+norberg;6343
+avesta;6344
+jokkmokk;6345
+winterthour;6346
+bienne;6347
+thoune;6348
+bellinzone;6349
+locarno;6350
+sierre;6351
+martigny-ville;6352
+monthey;6353
+nyon;6354
+vevey;6355
+gland;6356
+bulle;6357
+yverdon-les-bains;6358
+la chaux-de-fonds;6359
+neuchatel;6360
+le locle;6361
+granges;6362
+delemont;6363
+schaffhouse;6364
+kreuzlingen (constance);6365
+arbon;6366
+rapperswil;6367
+zoug;6368
+coire;6369
+schwytz;6370
+altstatten;6371
+gossau;6372
+wil;6373
+frauenfeld;6374
+olten;6375
+aarau;6376
+berthoud;6377
+buchs;6378
+langenthal;6379
+wohlen;6380
+kloten;6381
+saint-moritz;6382
+klosters serneus;6383
+biasca;6384
+andermatt;6385
+disentis;6386
+glaris;6387
+flims;6388
+brigue-glis;6389
+viege;6390
+frutigen;6391
+gstaad;6392
+vallorbe;6393
+mesocco;6394
+romanshorn;6395
+wageningen;6396
+totness;6397
+moengo;6398
+lobamba;6399
+miaoli;6400
+bukoba;6401
+musoma;6402
+mwanza;6403
+shinyanga;6404
+kigoma;6405
+sumbawanga;6406
+iringa;6407
+songea;6408
+mtwara;6409
+lindi;6410
+tanga;6411
+moshi;6412
+arusha;6413
+babati;6414
+singida;6415
+wete (ile de pemba);6416
+chake chake;6417
+morogoro;6418
+lampang;6419
+phitsanulok;6420
+nakhon sawan;6421
+nakhon ratchasima;6422
+ratchaburi;6423
+nakhon pathom;6424
+chon buri;6425
+si racha;6426
+rayong;6427
+surat thani;6428
+nakhon si thammarat;6429
+hat yai;6430
+yala;6431
+kamphaeng phet;6432
+lamphun;6433
+nong khai;6434
+mukdahan;6435
+kalasin;6436
+maha sarakham;6437
+chaiyaphum;6438
+phetchabun;6439
+surin;6440
+si saket;6441
+pak chong;6442
+saraburi;6443
+suphan buri;6444
+kanchanaburi;6445
+klaeng;6446
+sattahip;6447
+chachoengsao;6448
+phetchaburi;6449
+cha-am;6450
+pran buri;6451
+chumpon;6452
+phattalung;6453
+trang;6454
+sadao;6455
+pattani;6456
+narathiwat;6457
+satun;6458
+betong;6459
+chawang;6460
+rawai;6461
+patong;6462
+kathu;6463
+ranong;6464
+prachuap khiri khan;6465
+samut songkhram;6466
+trat;6467
+bang lamung;6468
+loei;6469
+nan;6470
+phayao;6471
+phrae;6472
+tak;6473
+pong;6474
+amnat charoen;6475
+yasothon;6476
+roi et;6477
+nong bua lamphu;6478
+nakhon phanom;6479
+phichit;6480
+uthai thani;6481
+sa kaeo;6482
+prachin buri;6483
+khemarat;6484
+bueng kan;6485
+mae hong son;6486
+ban khok;6487
+ban rai;6488
+sangre grande;6489
+rio claro;6490
+penal;6491
+siparia;6492
+princes town;6493
+debe;6494
+couva;6495
+petit valley;6496
+tunapuna;6497
+rafraf;6498
+kelibia;6499
+mahdia;6500
+metlaoui;6501
+sidi bouzid;6502
+kasserine;6503
+kairouan;6504
+siliana;6505
+mateur;6506
+zaghouan;6507
+carthage;6508
+rades;6509
+beja;6510
+manavgat;6511
+adana;6512
+osmaniye;6513
+antioche;6514
+karaman;6515
+gaziantep;6516
+batman;6517
+ercis;6518
+sivas;6519
+erzincan;6520
+kayseri;6521
+corum;6522
+tokat;6523
+samsun;6524
+bafra;6525
+giresun;6526
+ordu;6527
+rize;6528
+zonguldak;6529
+kutahya;6530
+afyonkarahisar;6531
+isparta;6532
+denizli;6533
+konya;6534
+aksaray;6535
+edirne;6536
+kiziltepe;6537
+siirt;6538
+karabuk;6539
+bolu;6540
+gebze;6541
+bueyuekcekmece;6542
+dortyol;6543
+urla;6544
+canakkale;6545
+fatsa;6546
+bulancak;6547
+kars;6548
+bingol;6549
+yozgat;6550
+ahlat;6551
+kesan;6552
+hakkari;6553
+burdur;6554
+sinop;6555
+tirebolu;6556
+terme;6557
+ayancik;6558
+akcakoca;6559
+sile;6560
+uzunkoeprue;6561
+catalca;6562
+yalova;6563
+mudanya;6564
+foca;6565
+seferihisar;6566
+ardahan;6567
+artvin;6568
+bitlis;6569
+tunceli;6570
+amasya;6571
+merzifon;6572
+kastamonu;6573
+akhisar;6574
+kozan;6575
+oujhorod;6576
+ivano-frankivs'k;6577
+khmel'nyts'kyy;6578
+vinnytsya;6579
+jytomyr;6580
+bila tserkva;6581
+tchernihiv;6582
+konotop;6583
+soumy;6584
+poltava;6585
+krementchouk;6586
+tcherkassy;6587
+oleksandriya;6588
+louhansk;6589
+marioupol;6590
+berdyans'k;6591
+kherson;6592
+nikopol';6593
+kryvyi rih;6594
+zaporijia;6595
+sloviansk;6596
+dnipropetrovsk;6597
+horlivka;6598
+novovolyns'k;6599
+chervonohrad;6600
+shepetivka;6601
+sebastopol (crimee);6602
+theodosie;6603
+kertch;6604
+simferopol;6605
+illichivs'k;6606
+bilhorod-dnistrovs'kyy;6607
+pavlohrad;6608
+krasnoarmiys'k;6609
+uman';6610
+loubny;6611
+myrhorod;6612
+nijyn;6613
+romny;6614
+shostka;6615
+fastiv;6616
+drohobych;6617
+stryi;6618
+reni;6619
+yuzhne;6620
+krasnoperekops'k;6621
+kotovs'k;6622
+zdolbuniv;6623
+bella union;6624
+melo;6625
+tacuarembo;6626
+fray bentos;6627
+mercedes;6628
+san jose de mayo;6629
+minas;6630
+castillos;6631
+barra de carrasco;6632
+atlantida;6633
+la floresta;6634
+san carlos;6635
+canelones;6636
+las piedras;6637
+carupano;6638
+cumana;6639
+puerto la cruz;6640
+catia la mar;6641
+puerto cabello;6642
+valencia;6643
+coro;6644
+punto fijo;6645
+barquisimeto;6646
+san cristobal;6647
+calabozo;6648
+barinas;6649
+el tigre;6650
+anaco;6651
+guanare;6652
+valera;6653
+carora;6654
+acarigua;6655
+cabimas;6656
+la villa del rosario;6657
+valle de la pascua;6658
+altagracia de orituco;6659
+porlamar;6660
+tucupita;6661
+upata;6662
+puerto ayacucho;6663
+el vigia;6664
+puerto piritu;6665
+vinh;6666
+yen bai;6667
+thanh pho thai nguyen;6668
+viet tri;6669
+thanh pho hoa binh;6670
+thanh hoa;6671
+qui nhon;6672
+pleiku;6673
+buon ma thuot;6674
+can tho;6675
+thanh pho bac lieu;6676
+ca mau;6677
+rach gia;6678
+long xuyen;6679
+soc trang;6680
+vinh long;6681
+thanh pho cao bang;6682
+tam ky;6683
+tuy hoa;6684
+tra vinh;6685
+ha tinh;6686
+dong ha;6687
+tinh gia;6688
+thanh pho ha giang;6689
+lai chau;6690
+phu yen;6691
+ninh binh - la baie d'halong terrestre;6692
+dien chau;6693
+ba don;6694
+kien giang;6695
+phu vang;6696
+nghia hanh;6697
+bong son;6698
+tan an;6699
+nam can;6700
+loc ninh;6701
+gia nghia;6702
+dong nai;6703
+kon tum;6704
+sana';6705
+as salif;6706
+nchelenge;6707
+mansa;6708
+samfya;6709
+mpika;6710
+kansanshi;6711
+sesheke;6712
+side;6713
+rust;6714
+belek;6715
+le parc national des lencois maranhenses;6716
+les tuvalu;6717
+bacau;6718
+le parc national de jasper;6719
+le parc national des glaciers;6720
+koh samet;6721
+lopburi;6722
+koh ta kiev (ile de la baie);6723
+koh rong;6724
+koh russey (bamboo island);6725
+koh thmei;6726
+koh tonsay;6727
+koh sdach (king island);6728
+palma de majorque;6729
+addis-abeba;6730
+lalibela;6731
+gondar;6732
+baher dar (lac tana);6733
+adigrat;6734
+aksoum;6735
+gambela;6736
+djidjiga;6737
+le parc national de yangudi rassa;6738
+dubti;6739
+bishoftu;6740
+nazret;6741
+dire dawa;6742
+harar;6743
+le parc national du simien;6744
+awasa;6745
+arba minch;6746
+mekele;6747
+le parc national d'awash;6748
+mai khao beach;6749
+nai yang beach;6750
+bang tao beach;6751
+kamala beach;6752
+karon beach;6753
+kata beach;6754
+phuket town;6755
+chalong;6756
+panwa beach (khao kad beach);6757
+koh siray;6758
+pa klok;6759
+rovaniemi;6760
+inari (lac inari);6761
+kittila;6762
+enontekio;6763
+saariselka;6764
+ranua;6765
+salla;6766
+le parc national d'oulanka;6767
+doha;6768
+al rayyan;6769
+al khawr;6770
+al wakrah;6771
+mesaieed;6772
+dukhan;6773
+fuwayrit;6774
+simaisma;6775
+umm salal;6776
+madinat ash shamal;6777
+al jumaliyah;6778
+ville de koweit;6779
+janub as surrah;6780
+bayan;6781
+ar rumaythiyah;6782
+salwa;6783
+hawalli;6784
+ad dasmah;6785
+as salimiyah;6786
+al muharraq;6787
+al hadd;6788
+manama;6789
+sitrah;6790
+madinat `isa;6791
+madinat hamad;6792
+ilulissat;6793
+qasigiannguit;6794
+aasiaat;6795
+sisimiut;6796
+maniitsoq;6797
+nuuk;6798
+paamiut;6799
+narsaq;6800
+qaqortoq;6801
+upernavik;6802
+cabinda;6803
+uige;6804
+camabatela;6805
+luanda;6806
+n'dalatando;6807
+malanje;6808
+lobito;6809
+benguela;6810
+huambo;6811
+menongue;6812
+namibe;6813
+ondjiva;6814
+lumeje;6815
+saurimo;6816
+lucapa;6817
+chutes victoria (zimbabwe);6818
+bulawayo;6819
+gwanda;6820
+kwekwe;6821
+harare;6822
+chinhoyi;6823
+pointe-noire (congo);6824
+brazzaville;6825
+dolisie (loubomo);6826
+kinkala;6827
+madingou;6828
+le parc national de conkouati-douli;6829
+djambala;6830
+impfondo;6831
+ouesso;6832
+owando;6833
+mutare;6835
+gweru;6836
+masvingo;6838
+lubango;6839
+tasiilaq;6840
+illoqortormiut;6841
+porto torres;6842
+oristano;6843
+carloforte;6844
+stintino;6845
+santa teresa gallura;6846
+nuoro;6847
+pula;6848
+villacidro;6849
+macomer;6850
+bosa;6851
+arbatax;6852
+ozieri;6853
+tempio pausania;6854
+villasimius;6855
+porto cervo;6856
+dorgali;6857
+san teodoro;6858
+palau;6859
+arzachena;6860
+licata;6861
+agrigente;6862
+sciacca;6863
+gioia tauro;6864
+paola;6865
+scalea;6866
+ciro marina;6867
+policoro;6868
+gaete;6869
+vieste;6870
+portoferraio;6871
+follonica;6872
+piombino;6873
+pozzallo;6874
+pachino;6875
+avola;6876
+augusta;6877
+porto empedocle;6878
+bagheria;6879
+san vito lo capo;6880
+favignana (iles egades);6881
+capo d'orlando;6882
+caltanissetta;6883
+canicatti;6884
+castellammare del golfo;6885
+lipari (iles eoliennes);6886
+pantelleria;6887
+capraia isola;6888
+isola del giglio;6889
+forio;6890
+mkoani;6891
+l'ile de bawe;6892
+nungwi (ile de unguja);6893
+kendwa;6894
+jambiani;6895
+paje;6896
+matemwe;6897
+kiwengwa;6898
+kizimkazi;6899
+jozani;6900
+uroa;6901
+fumba;6902
+kilindoni (ile de mafia);6903
+utende;6904
+chole bay;6905
+bweni;6906
+kangani;6907
+changuu (prison island);6908
+ile de chapwani;6909
+chaweng;6910
+lamai beach;6911
+nathon;6912
+bophut;6913
+lipa noi;6914
+maenam;6915
+choeng mon;6916
+bang kao (plage de laem sor);6917
+koh phaluai;6918
+koh taen;6919
+koh madsum;6920
+dolbeau-mistassini;6921
+saint-felicien (lac saint-jean);6922
+granby;6923
+gatineau;6924
+ville de quebec;6925
+perce (rocher perce et ile bonaventure);6926
+sentosa (ile);6927
+pulau ubin;6928
+jurong east;6929
+la graciosa;6930
+orzola;6931
+caleta de famara;6932
+haria;6933
+costa teguise;6934
+la santa;6935
+punta mujeres;6936
+arrieta;6937
+playa honda;6938
+la plage de papagayo;6939
+el cotillo;6940
+morro jable;6941
+caleta de fuste;6942
+costa calma;6943
+cofete;6944
+gran tarajal;6945
+la pared;6946
+tejeda;6947
+taurito;6948
+los caserones;6949
+le parc national du teide;6950
+san cristobal de la laguna;6951
+masca;6952
+los cristianos;6953
+costa adeje;6954
+vilaflor de chasna;6955
+el medano;6956
+taganana;6957
+las galletas;6958
+valle gran rey;6959
+agulo;6960
+hermigua;6961
+vallehermoso;6962
+playa santiago;6963
+alojera;6964
+fuencaliente de la palma;6965
+tazacorte;6966
+los llanos de aridane;6967
+los canarios;6968
+santo domingo (garafia);6969
+el paso;6970
+puerto naos;6971
+tijarafe;6972
+valverde;6973
+el pinar de el hierro;6974
+la restinga;6975
+sabinosa;6976
+tamaduste;6977
+las puntas;6978
+wynyard;6979
+smithton;6980
+st helens;6981
+rosebery;6982
+lakeland;6983
+palm bay;6984
+fernandina beach;6985
+tallahassee;6986
+callaway;6987
+pensacola;6988
+key largo;6989
+islamorada;6990
+big pine key;6991
+marco island;6992
+fort myers;6993
+port charlotte;6994
+sebring;6995
+le parc national des everglades;6996
+saint augustine;6997
+vaitape;6998
+faanui;6999
+nunu'e;7000
+arue;7001
+papenoo;7002
+taravao;7003
+papara;7004
+mahina;7005
+pirae;7006
+tautira;7007
+papeari;7008
+mataiea;7009
+hitia'a;7010
+vairao;7011
+faaone;7012
+to'ahotu;7013
+pueu;7014
+haapupuni;7015
+mahaena;7016
+tepati;7017
+papeete;7018
+jodhpur;7019
+pushkar;7020
+bikaner;7021
+ajmer;7022
+parc national de ranthambore;7023
+parc national de sariska;7024
+bharatpur;7025
+chittaurgarh;7026
+jaipur;7027
+bhilwara;7028
+sikar;7029
+slidell;7030
+houma;7031
+la nouvelle-iberie;7032
+baton-rouge;7033
+lake charles;7034
+morgan city;7035
+oakdale;7036
+marksville;7037
+natchitoches;7038
+shreveport;7039
+ruston;7040
+monroe;7041
+opelousas;7042
+grand isle;7043
+port sulphur;7044
+cameron;7045
+redding;7046
+fort bragg;7047
+san jose;7048
+san luis obispo;7049
+morro bay;7050
+santa maria;7051
+lompoc;7052
+oxnard;7053
+huntington beach;7054
+newport beach;7055
+malibu;7056
+topanga canyon;7057
+san clemente;7058
+carlsbad;7059
+chula vista;7060
+temecula;7061
+san bernardino;7062
+mammoth lakes;7063
+big pine;7064
+lone pine;7065
+bakersfield;7066
+visalia;7067
+bodega bay;7068
+moss beach;7069
+barrow;7070
+nome;7071
+dutch harbor;7072
+kodiak;7073
+ketchikan;7074
+sitka;7075
+haines;7076
+dillingham;7077
+hooper bay;7078
+fairbanks;7079
+healy;7080
+tok;7081
+sand point;7082
+anchor point;7083
+kenai;7084
+valdez;7085
+pernem;7086
+calangute;7087
+candolim;7088
+bambolim;7089
+ponda;7090
+navelim;7091
+sanquelim;7092
+varca;7093
+colva;7094
+cuncolim;7095
+curchorem;7096
+kankon;7097
+nileshwar;7098
+azhikkal;7099
+muluppilagadu;7100
+mahe;7101
+ferokh;7102
+manjeri;7103
+malappuram;7104
+tirur;7105
+kunnamkulam;7106
+shoranur;7107
+ottappalam;7108
+irinjalakuda;7109
+kodungallur;7110
+kizhake chalakudi;7111
+aluva;7112
+perumbavoor;7113
+muvattupuzha;7114
+kumbalam;7115
+aroor;7116
+kutiatodu;7117
+vaikam;7118
+kottayam;7119
+tiruvalla;7120
+pathanamthitta;7121
+punalur;7122
+george town;7123
+cygnet;7124
+cilacap;7125
+kebumen;7126
+pacitan;7127
+trenggalek;7128
+genteng;7129
+ngawi;7130
+bangkalan;7131
+tengah;7132
+narmada;7133
+pelaihari;7134
+l'ile de brac;7135
+l'ile de mljet;7136
+l'ile de pag;7137
+l'ile de vis;7139
+l'ile de cres;7140
+l'ile de krk;7141
+l'ile de losinj;7142
+l'ile de lastovo;7143
+l'ile de dugi otok;7144
+l'ile de pasman;7145
+l'ile de ugljan (archipel de zadar);7146
+l'ile de sipan;7147
+l'ile de murter;7148
+l'ile de kolocep;7149
+l'ile de lopud;7150
+l'ile de bisevo;7151
+l'ile de solta;7152
+l'ile de iz;7153
+l'ile de ciovo;7154
+l'ile d'olib;7155
+l'ile de susak;7156
+l'ile de kaprije;7157
+l'ile de premuda;7158
+l'ile de molat;7159
+l'ile de prvic;7160
+l'ile de vir;7161
+l'ile de zlarin;7162
+l'ile de unije;7163
+l'ile de silba;7164
+l'ile de zirje;7165
+l'ile de zverinac;7166
+l'ile de drvenik veliki;7167
+l'ile de ilovik;7168
+l'ile de krapanj;7169
+valldemossa;7171
+magaluf;7172
+cala d'or;7173
+cala ratjada;7174
+cala millor;7175
+deia;7176
+palma nova;7177
+sa coma;7178
+arta;7179
+cala figuera;7180
+can pastilla;7181
+ciutadella de menorca;7182
+port mahon;7183
+fornells;7184
+binibeca;7185
+son bou;7186
+cala en porter;7187
+sant tomas;7188
+sant lluis;7189
+cala blanca;7190
+arenal d'en castell;7191
+cala galdana;7192
+punta prima;7193
+cala en blanes;7194
+cala en bosc;7195
+son xoriguer;7196
+cala morell;7197
+es canutells;7198
+es canar;7199
+sant josep de sa talaia;7200
+cala llonga;7201
+portinatx;7202
+santa gertrudis de fruitera;7203
+sant carles de peralta;7204
+san miguel de balansat;7205
+cala gracio;7206
+sant joan de labritja;7207
+es cubells;7208
+cala llenya;7209
+es figueral;7210
+sant jordi de ses salines;7211
+cala de sant vicent;7212
+jakarta;7213
+batu;7214
+medan;7215
+samosir;7216
+bukit lawang;7217
+berastagi;7218
+bandar lampung;7219
+parapat;7220
+le lac maninjau;7221
+le parc national de gunung leuser;7222
+payakumbuh;7223
+kalimantan (borneo);7224
+le parc national de danau sentarum;7225
+le parc national de gunung palung;7226
+putussibau;7227
+le parc national de betung kerihun;7228
+temajuk;7229
+mempawah;7230
+pemangkat;7231
+iles derawan;7232
+ile kakaban;7233
+tenggarong;7234
+le parc national de kutai;7235
+handil;7236
+bidukbiduk;7237
+sesulu;7238
+banjarbaru;7239
+martapura;7240
+barabai;7241
+kota pagatan;7242
+teluk tamiang;7243
+parc national de tanjung puting;7244
+pangkalan bun;7245
+muara teweh;7246
+puruk cahu;7247
+tanjung selor;7248
+sebatik;7249
+bunyu;7250
+kuta (lombok);7251
+mawun;7252
+selong blanak;7253
+tambah;7254
+gili meno;7255
+gili trawangan;7256
+senggigi;7257
+mandalika;7258
+suranadi;7259
+mangsit;7260
+tanjung luar;7261
+blongas;7262
+lembar;7263
+sunut;7264
+aikmel;7265
+gili lawang (pulau lawang) ;7266
+gili sulat (pulau sulat);7267
+parepare;7268
+selayar;7269
+palopo;7270
+sengkang;7271
+l'ile de bunaken;7272
+tomohon;7273
+lembeh;7274
+l'iles sangihe;7275
+tondano;7276
+les iles togian;7277
+luwuk;7278
+ampana;7279
+sulawesi/celebes (makassar);7280
+les iles wakatobi;7281
+buton;7282
+polewali;7283
+mamasa;7284
+sorong;7285
+waigeo;7286
+manokwari;7287
+wasai;7288
+batanta;7289
+kaimana;7290
+bawe (taman nasional teluk cenderawasih);7291
+pantai patawana;7292
+merauke;7293
+agats;7294
+timika;7295
+la papouasie indonesienne;7296
+wamena (vallee de baliem);7297
+biak;7298
+nabire;7299
+numfor;7300
+yapen;7301
+paniai lakes;7302
+sarmi;7303
+les moluques;7304
+ambon;7305
+seram;7307
+halmahera;7308
+morotai;7309
+saparua;7310
+buru;7311
+wetar;7312
+haruku;7313
+les iles babar;7314
+makian;7315
+les iles banda;7316
+tual;7317
+les iles kai;7319
+kota masohi;7320
+tulehu;7321
+liang;7322
+larike;7323
+obira;7324
+platis gialos;7325
+psarrou;7326
+kalafati;7327
+rhenee (rinia);7328
+tourlos;7329
+ornos;7330
+elia;7331
+ano mera;7332
+agios stefanos;7333
+faros armenistis;7334
+pulau bungin;7335
+dompu;7336
+kore;7338
+sumbawa;7339
+sumba (waingapu);7340
+parado;7341
+pekat;7342
+timor;7343
+atambua;7344
+besikama;7345
+l'ile de rote;7346
+oehala;7347
+oetune;7348
+wini;7349
+tablolong;7350
+lindos;7351
+faliraki;7352
+ialyssos;7353
+kolymbia;7354
+afantou;7355
+camiros;7356
+petaloudes;7357
+monolithos;7358
+macheria;7359
+paleokastritsa;7360
+sidari;7361
+kavos;7362
+kassiopi;7363
+akharavi;7364
+pelekas;7365
+achilleio;7366
+glyfada;7367
+moraitika;7368
+lefkimmi;7369
+kardamaina;7370
+kefalos;7371
+marmari;7372
+mastichari;7373
+tigaki;7374
+agios fokas;7375
+l'ile isabela;7376
+l'ile san cristobal;7377
+l'ile floreana;7378
+l'ile baltra;7379
+l'ile fernandina;7380
+l'ile santiago;7381
+l'ile espanola;7382
+le parc national des cevennes;7383
+vallon-pont-d'arc;7384
+tournon-sur-rhone;7385
+viviers;7386
+balazuc;7387
+le parc naturel regional des monts d'ardeche;7388
+orgnac-l'aven;7389
+vogue;7390
+houmt souk;7392
+midoun;7393
+guellala;7394
+ajim;7395
+erriadh;7396
+mellita;7397
+oranjestad;7398
+palm beach (aruba);7400
+noord;7401
+sint nicolaas;7402
+malmok;7403
+miami;7404
+la californie;7405
+hobart;7406
+santa cruz de tenerife;7407
+munnar;7408
+cochin (kochi);7409
+alappuzha;7410
+kovalam;7411
+vieux goa (old goa);7412
+baga beach;7413
+anjuna beach;7414
+margao;7415
+vagator;7416
+arambol;7417
+vasco da gama;7418
+dona paula;7419
+tai po;7420
+kowloon;7421
+l'ile de lamma (yung shue wan);7422
+shek o beach;7423
+l'ile de hong kong;7424
+ile de cheung chau;7425
+repulse bay beach;7426
+fira;7427
+oia;7428
+kamari;7429
+imerovigli;7430
+pyrgos kallistis;7431
+thirassia;7432
+megalochori;7433
+perissa;7434
+akrotiri;7435
+koloumpos;7437
+agios georgios;7438
+espargos (ile de sal);7439
+sao nicolau;7440
+brava (ile);7441
+santa luzia (ile);7442
+sao filipe (ile de fogo);7443
+santiago (ile au cap-vert);7444
+pedra de lume;7446
+ponta do sol;7447
+porto novo;7448
+palmeira;7449
+murdeira;7450
+assomada;7451
+baia das gatas;7452
+rabil;7453
+pedra badejo;7454
+calheta de sao miguel;7455
+porto rincao;7456
+mosteiros;7457
+fogo natural park;7458
+serengeti (parc national);7459
+lake manyara (parc national);7460
+tarangire (parc national);7461
+l'aire de conservation du ngorongoro;7462
+arusha (parc national);7463
+ruaha (parc national);7464
+mikumi (parc national);7465
+mahale (parc national des monts mahale);7467
+katavi (parc national);7468
+kilindoni (ile de mafia);7469
+kilwa masoko;7470
+tunduru;7471
+masasi;7472
+spitzberg;7473
+nordaustlandet;7474
+edgeoya;7475
+bonito (mato grosso do sul);7476
+mios;7478
+les iles perhentian;7479
+tinggi island;7480
+bandar penawar;7481
+pulau sibu (ile sibu);7482
+pulau babi besar;7483
+pulau pemanggil;7484
+pulau aur;7485
+pulau kapas;7486
+pulau tenggol;7487
+l'ile banggi (pulau banggi);7488
+l'ile mabul (mabul island);7489
+pulau sipadan;7490
+kudat;7491
+mukah;7492
+la londe-les-maures;7493
+serignan;7494
+old orchard beach;7495
+bormes-les-mimosas;7496
+saint-gilles-croix-de-vie;7497
+san andres (ile);7498
+bryce canyon;7499
+pessac;7500
+bussy-saint-georges;7501
+talence;7502
+chaville;7503
+chatenay-malabry;7504
+noisy-le-sec;7505
+antony;7506
+nanterre;7507
+la costa brava;7508
+arles;7509
+le zoo de beauval;7510
